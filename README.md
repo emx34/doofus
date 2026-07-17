@@ -1,5 +1,7 @@
 
-" Doofext.exe " ■ DOOFUS GAME GAMEDATA.G-D EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner)
+DOOFUS GAME GAMEDATA.G-D EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner)
+
+■ Doofext.exe
 
 I wanted to contribute to the modification of Doofus by making some small additions, 
 
