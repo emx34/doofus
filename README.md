@@ -15,7 +15,7 @@ all files in the "gamedata.g-d" image data archive can be easily (1) unpacked in
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-■ GBview.exe
+■ GBview.exe ( beta test version )
 
 I'm currently working on a new project (Doing what has never been done before, 
 a small step but a giant leap onto the moon's surface.), 
