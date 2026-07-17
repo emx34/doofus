@@ -39,3 +39,8 @@ a"GBViewer.exe" Graphics-Viewer that can display *.dat image files containing "G
 It's possible to view the game's graphics(some of *.dat files) using this tool after extracting them from the gamedata.g-d file. Initial tests have been successful, 
 but there are some visual issues. The graphics code is very complex, and writing a tool that reads, analyzes, manages, and displays this code correctly is a very laborious task.
 It requires manual debugging using reverse engineering and extensive code analysis—hours, days, maybe even months.
+
+usage syntax options:
+
+GBview.exe 0005_3f2.dat
+
