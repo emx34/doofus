@@ -1,4 +1,4 @@
-■ DOOFUS --- MS DOS PLATFORM GAME MODIFICATION PROJECT
+■ DOOFUS --- MS DOS PLATFORM GAME MODIFICATION PROJECT (Borland c++)
 
 <img width="958" height="409" alt="image" src="https://github.com/user-attachments/assets/03f22228-8b43-4f61-b1ef-ef5afc8d1ec0" />
 
