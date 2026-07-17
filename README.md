@@ -15,11 +15,11 @@ all files in the "gamedata.g-d" image data archive can be easily (1) unpacked in
 
 Doofext.exe * usage syntax options:
 
-  doofext -x     Extracts gamedata.g-d target entities into local \GD\ folder
+  doofext -x     ..Extracts gamedata.g-d target entities into local \GD\ folder
   
-  doofext -c     Recombines \GD\ folder contents dynamically back into archive
+  doofext -c     ..Recombines \GD\ folder contents dynamically back into archive
   
-  doofext -as    Displays original hardcoded file sizes matrix parameters 
+  doofext -as    ..Displays original hardcoded file sizes matrix parameters 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
