@@ -17,7 +17,7 @@ Doofext.exe * usage syntax options:
 
   doofext -x     Extracts gamedata.g-d target entities into local \GD\ folder
   doofext -c     Recombines \GD\ folder contents dynamically back into archive
-  doofext -as    Displays original hardcoded file sizes matrix parameters
+  doofext -as    Displays original hardcoded file sizes matrix parameters 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
