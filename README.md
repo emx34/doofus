@@ -1,13 +1,11 @@
 <img width="958" height="409" alt="image" src="https://github.com/user-attachments/assets/03f22228-8b43-4f61-b1ef-ef5afc8d1ec0" />
 
 
-(1) DOOFUS GAME GAMEDATA.G-D EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe
-
-(2) DOOFUS GAME *.DAT GB-IMAGE-FILE VIEWER --- GBview.exe
-
 _________________________________________________________________________________________________________________________________________________________________________________
 
-■ (1) Doofext.exe -(Full working version)-
+(1) DOOFUS GAME GAMEDATA.G-D EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe
+
+■ Doofext.exe -(Full working version)-
 
 I wanted to contribute to the modification of Doofus by making some small additions, 
 
@@ -30,7 +28,9 @@ Doofext.exe (Doofus gamedata.g-d asset deployment subsystem)
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-■ (2) GBview.exe -[beta test version]- IMAGE Viewer ?! NOT completed yet .. tested with 0004_3f2.dat & 0005_3f2.dat
+(2) DOOFUS GAME *.DAT GB-IMAGE-FILE VIEWER --- GBview.exe
+
+■ GBview.exe -[beta test version]- IMAGE Viewer ?! NOT completed yet .. tested with 0004_3f2.dat & 0005_3f2.dat
 
 I'm currently working on a new project (Doing what has never been done before, 
 a small step but a giant leap onto the moon's surface.), 
