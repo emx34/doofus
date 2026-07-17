@@ -2,7 +2,7 @@
 (1) DOOFUS GAME GAMEDATA.G-D EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe
 (2) DOOFUS GAME *.DAT GB-IMAGE-FILE VIEWER --- GBview.exe
 
-■ Doofext.exe
+■ Doofext.exe (Full working version)
 
 I wanted to contribute to the modification of Doofus by making some small additions, 
 
@@ -15,7 +15,7 @@ all files in the "gamedata.g-d" image data archive can be easily (1) unpacked in
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-■ GBview.exe ( beta test version )
+■ GBview.exe (beta test version) 
 
 I'm currently working on a new project (Doing what has never been done before, 
 a small step but a giant leap onto the moon's surface.), 
