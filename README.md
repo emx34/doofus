@@ -1,4 +1,5 @@
 I wanted to contribute to the modification of Doofus by making some small additions, 
+
 The game's main executable file is compressed/protected with PKLite. 
 After unpacking it, the executable file becomes fully open to reverse engineering, and the real work begins from this point. 
 As a first step, I started by writing a small tool that opens the game's external data file "gamedata.g-d," and this is complete. 
