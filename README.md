@@ -1,4 +1,4 @@
-<img width="655" height="214" alt="doofus" src="https://github.com/user-attachments/assets/8bb4a6a3-7ac4-47c0-962f-9fba63500d9d" />
+<img width="958" height="409" alt="image" src="https://github.com/user-attachments/assets/03f22228-8b43-4f61-b1ef-ef5afc8d1ec0" />
 
 
 
