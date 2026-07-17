@@ -5,7 +5,7 @@
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(1) DOOFUS GAME GAMEDATA.G-D EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe
+(1) DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe
 
 ■ Doofext.exe -(Full working version)-
 
@@ -22,11 +22,11 @@ Doofext.exe (Doofus gamedata.g-d asset deployment subsystem)
 
   ~ usage syntax options:
   
-doofext -x     ..eXtracts gamedata.g-d target entities into local \GD\ folder
+doofext -x     .. eXtracts gamedata.g-d target entities into local \GD\ folder
   
-doofext -c     ..reCombines(reassembles) \GD\ folder contents dynamically back into archive
+doofext -c     .. reCombines(reassembles) \GD\ folder contents dynamically back into archive
   
-doofext -as    ..displays original hardcoded file sizes matrix parameters (file name lister)  *** use this: doofext -as>log.txt
+doofext -as    .. displays original hardcoded file sizes matrix parameters (file name lister)  *** use this: doofext -as>log.txt
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
