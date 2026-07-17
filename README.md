@@ -13,7 +13,9 @@ Now, unlike previous reverse engineering attempts, there's no need for a Java-ba
 Using the MS-DOS command-line `doofext.exe`, 
 all files in the "gamedata.g-d" image data archive can be easily (1) unpacked into the "\GD" folder, and then (2) reassembled to re-create the "gamedata.g-d" file. 
 
-Doofext.exe * usage syntax options:
+Doofext.exe (Doofus gamedata.g-d asset deployment subsystem) 
+
+  usage syntax options:
 
   doofext -x     ..Extracts gamedata.g-d target entities into local \GD\ folder
   
