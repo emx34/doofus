@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 ■ Doofext.exe -(Full working version)-
 
-I wanted to contribute to the modification of Doofus by making some small additions, 
+I wanted to contribute to the modification of Doofus game by making some small additions, 
 
 The game's main executable file is compressed/protected with PKLite. 
 After unpacking it, the executable file becomes fully open to reverse engineering, and the real work begins from this point. 
