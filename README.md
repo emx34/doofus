@@ -31,7 +31,7 @@ Doofext.exe (Doofus gamedata.g-d asset deployment subsystem)
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-■ (2) GBview.exe (beta test version) 
+■ (2) GBview.exe (beta test version) IMAGE Viewer ?! NOT completed yet .. tested with 0004_3f2.dat & 0005_3f2.dat
 
 I'm currently working on a new project (Doing what has never been done before, 
 a small step but a giant leap onto the moon's surface.), 
