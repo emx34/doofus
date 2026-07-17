@@ -44,4 +44,7 @@ It requires manual debugging using reverse engineering and extensive code analys
 GBview.exe 0005_3f2.dat
 
 
+_________________________________________________________________________________________________________________________________________________________________________________
+___ The projects are not finished and it seems like it will take a long time ___
 ___ The SourceCodes for the projects is currently *PRIVATE* ___
+
