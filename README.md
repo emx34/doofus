@@ -24,7 +24,7 @@ Doofext.exe (Doofus gamedata.g-d asset deployment subsystem)
   
 doofext -x     ..eXtracts gamedata.g-d target entities into local \GD\ folder
   
-doofext -c     ..reCombines(reassembles) \GD\ folder contents dynamically back into archive
+doofext -c     ..reCombines(reassembles) \GD\*.* folder contents dynamically back into archive
   
 doofext -as    ..displays original hardcoded file sizes matrix parameters (file name lister)  *** use this: doofext -as>log.txt
 
