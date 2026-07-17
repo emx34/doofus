@@ -4,7 +4,8 @@
 
 (2) DOOFUS GAME *.DAT GB-IMAGE-FILE VIEWER --- GBview.exe
 
-■ Doofext.exe (Full working version)
+
+■ (1) Doofext.exe (Full working version)
 
 I wanted to contribute to the modification of Doofus by making some small additions, 
 
@@ -27,7 +28,7 @@ Doofext.exe (Doofus gamedata.g-d asset deployment subsystem)
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-■ GBview.exe (beta test version) 
+■ (2) GBview.exe (beta test version) 
 
 I'm currently working on a new project (Doing what has never been done before, 
 a small step but a giant leap onto the moon's surface.), 
