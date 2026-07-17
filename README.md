@@ -1,3 +1,5 @@
+DOOFUS GAME GAMEDATA.G-D EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner)
+
 I wanted to contribute to the modification of Doofus by making some small additions, 
 
 The game's main executable file is compressed/protected with PKLite. 
