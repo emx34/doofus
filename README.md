@@ -5,7 +5,7 @@
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(1) DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe
+(1) DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe 
 
 ■ Doofext.exe -(Full working version)-
 
