@@ -1,5 +1,7 @@
 
+
 (1) DOOFUS GAME GAMEDATA.G-D EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe
+
 (2) DOOFUS GAME *.DAT GB-IMAGE-FILE VIEWER --- GBview.exe
 
 ■ Doofext.exe (Full working version)
