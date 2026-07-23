@@ -44,14 +44,9 @@ It requires manual debugging using reverse engineering and extensive code analys
 
 gbview.exe 0005_3f2.dat
 _________________________________________________________________________________________________________________________________________________________________________________
-■ Believe tHe unbelievable >>> 
-another new project is in progress : ((__The Bone Shaker Architect__))  Standalone-Adlib-Player
-
-  NOT READY YET ..
-
-_________________________________________________________________________________________________________________________________________________________________________________
 
 ___ The projects are not finished and it seems like it will take a long time ___
 
 ___ The source codes for the projects is currently *PRIVATE* ___
+
 
