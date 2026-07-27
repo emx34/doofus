@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 (1) - DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe 
 
-■ Doofext.exe -(Full working version)-
+■  Doofext.exe -(Full working version)-
 
 I wanted to contribute to the modification of Doofus game by making some small additions, 
 
@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 (2) - DOOFUS GAME *.DAT GB-IMAGE-FILE VIEWER --- GBview.exe 1.0b -[beta test version]-
 
-■ GBview.exe * NOT completed yet .. tested with = 0004_3f2.dat , 0005_3f2.dat , 0008_3f2.dat , 0062_3f2.dat 
+■  GBview.exe * NOT completed yet .. tested with = 0004_3f2.dat , 0005_3f2.dat , 0008_3f2.dat , 0062_3f2.dat 
 
 0004_3f2.dat = Company Logo image (Prestige)
 
