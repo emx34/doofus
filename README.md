@@ -30,7 +30,7 @@ doofext -as    .. displays original hardcoded file sizes matrix parameters (file
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(2) DOOFUS GAME *.DAT GB-IMAGE-FILE VIEWER --- GBview.exe
+(2) DOOFUS GAME *.DAT GB-IMAGE-FILE VIEWER --- GBview.exe 1.0b
 
 ■ GBview.exe -[beta test version]- IMAGE Viewer ?! NOT completed yet .. tested with 0004_3f2.dat & 0005_3f2.dat
 
