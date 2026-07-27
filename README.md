@@ -30,9 +30,9 @@ doofext -as    .. displays original hardcoded file sizes matrix parameters (file
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(2) DOOFUS GAME *.DAT GB-IMAGE-FILE VIEWER --- GBview.exe 1.0b
+(2) DOOFUS GAME *.DAT GB-IMAGE-FILE VIEWER --- GBview.exe 1.0b -[beta test version]-
 
-■ GBview.exe -[beta test version]- IMAGE Viewer ?! NOT completed yet .. tested with = 0004_3f2.dat , 0005_3f2.dat , 0008_3f2.dat , 0062_3f2.dat 
+■ GBview.exe * IMAGE Viewer ?! NOT completed yet .. tested with = 0004_3f2.dat , 0005_3f2.dat , 0008_3f2.dat , 0062_3f2.dat 
 
 I'm currently working on a new project (doing what has never been done before, a small step but a giant leap onto the moon's surface.), 
 a"GBViewer.exe" Graphics-Viewer that can display *.dat image files containing "GB headers". 
