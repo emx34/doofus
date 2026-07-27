@@ -1,7 +1,6 @@
 ■ DOOFUS --- MS DOS PLATFORM GAME MODIFICATION PROJECT (Borland C++ & x86 Assembler)
 
-<img width="1137" height="598" alt="dof" src="https://github.com/user-attachments/assets/aaa9cd96-9d74-419b-aa64-c75b8f12fa91" />
-
+<img width="1390" height="972" alt="doofus2" src="https://github.com/user-attachments/assets/615aed3f-f437-4f4f-a3c8-48e5846e92f7" />
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
