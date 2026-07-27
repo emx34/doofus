@@ -35,13 +35,9 @@ ________________________________________________________________________________
 ■ GBview.exe * NOT completed yet .. tested with = 0004_3f2.dat , 0005_3f2.dat , 0008_3f2.dat , 0062_3f2.dat 
 
 0004_3f2.dat = Company Logo image (Prestige)
-
 0005_3f2.dat = Game Logo image (Doofus)
-
 0008_3f2.dat = HighScore image
-
 0062_3f2.dat = Gameover image
-
 I'm currently working on a new project (doing what has never been done before, a small step but a giant leap onto the moon's surface.), 
 a"GBViewer.exe" Graphics-Viewer that can display *.dat image files containing "GB headers". 
 It's possible to view the game's graphics(some of *.dat files) using this tool after extracting them from the gamedata.g-d file. Initial tests have been successful, 
