@@ -1,6 +1,6 @@
 ■ DOOFUS --- MS DOS PLATFORM GAME MODIFICATION PROJECT (Borland C++ & x86 Assembler)
 
-(!) Tested with DOSBOX-X (https://dosbox-x.com/)
+(!) My tools tested with DOSBOX-X (https://dosbox-x.com/)
 
 
 <img width="1390" height="972" alt="doofus2" src="https://github.com/user-attachments/assets/615aed3f-f437-4f4f-a3c8-48e5846e92f7" />
