@@ -1,4 +1,5 @@
-■ DOOFUS --- MS DOS PLATFORM GAME MODIFICATION PROJECT (Borland C++ & x86 Assembler) 
+■ DOOFUS --- MS DOS PLATFORM GAME MODIFICATION PROJECT (Borland C++ & x86 Assembler)
+
 (!) Tested with DOSBOX-X (https://dosbox-x.com/)
 
 
