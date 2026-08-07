@@ -2,8 +2,7 @@
 
 (!) Tested with DOSBOX-X (https://dosbox-x.com/)
 
-
-<img width="1390" height="972" alt="doofus2" src="https://github.com/user-attachments/assets/615aed3f-f437-4f4f-a3c8-48e5846e92f7" />
+<img width="1285" height="1112" alt="doofus3" src="https://github.com/user-attachments/assets/8361cf2c-3805-4b3c-a02b-bd7c0caa21d5" />
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
@@ -40,6 +39,8 @@ ________________________________________________________________________________
 0004_3f2.dat = Company Logo image (Prestige)
 
 0005_3f2.dat = Game Logo image (Doofus)
+
+0006_3f2.dat = Doofus Boy dog monkey elephant image
 
 0008_3f2.dat = HighScore image
 
