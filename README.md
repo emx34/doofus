@@ -46,7 +46,7 @@ ________________________________________________________________________________
 
 0062_3f2.dat = Gameover image
 
-I'm currently working on a new project (doing what has never been done before, a small step but a giant leap onto the moon's surface.), 
+I'm currently working on this project (doing what has never been done before, a small step but a giant leap onto the moon's surface.), 
 a"GBView.exe" Image-Viewer that can display *.dat image files containing "GB headers". 
 It's possible to view the game's graphics(some of *.dat files) using this tool after extracting them from the gamedata.g-d file. Initial tests have been successful, 
 but there are some visual issues. The graphics code is complex, and writing a tool that reads, analyzes, manages & palette config and displays this code correctly is a very laborious task.
