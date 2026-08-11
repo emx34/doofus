@@ -55,6 +55,16 @@ It requires manual debugging using reverse engineering and extensive code analys
 ~ usage syntax options:
 
 gbview.exe 0005_3f2.dat
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+
+(3) - DOOFUS GAME STANDALONE ADLIB PLAYER "The Bone Shaker Architect" Sound-Engine Reverse_engineered --- Tbsaplay.exe
+
+" Believe the unbelievable " , Doofus adlib-player will be available as a standalone for the first time :-)
+
+■ tbsaplay.exe * NOT READ YET , NOT RELEASED YET .. bugs and crashes needs lots of fix required
+
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ___ The projects are not finished and it seems like it will take a long time ___
