@@ -61,10 +61,11 @@ ________________________________________________________________________________
 
 (3) - DOOFUS GAME STANDALONE ADLIB PLAYER "The Bone Shaker Architect" Sound-Engine Reverse_engineered --- TBSAplay.exe
 
+■ TBSAplay.exe * NOT READY YET , NOT RELEASED YET .. bugs and crashes needs lots of fix required
+
 " Believe the unbelievable " The game Doofus uses Adlib music files in "tbs" format. 
 Player will be available as a standalone for the first time :-) The player operates as a complex mechanism (TSR)
 
-■ TBSAplay.exe * NOT READY YET , NOT RELEASED YET .. bugs and crashes needs lots of fix required
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
