@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 ■  GBview.exe * NOT completed yet .. tested with = 0004_3f2.dat , 0005_3f2.dat , 0008_3f2.dat , 0062_3f2.dat 
 
-0004_3f2.dat = Company Logo image (Prestige GmbH logo)
+0004_3f2.dat = Company Logo image (Prestige Softwareentwicklung GmbH logo)
 
 0005_3f2.dat = Game Logo image (Doofus game logo)
 
