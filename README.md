@@ -59,12 +59,12 @@ gbview.exe 0005_3f2.dat
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(3) DOOFUS GAME *_3f2.dat GB-IMAGE-FILE to TGA(TARGA) CONVERTER --- GB2tga.exe
+(3) DOOFUS GAME *_3f2.dat GB-IMAGE-FILE to TGA(TARGA) CONVERTER --- gb2tga.exe 
 
-■  Tested with one direction GB-Image to TGA(TARGA) .. this tool can convert TGA image file to GB-image 
+■  gb2tga.exe , Working verion Tested with one direction GB-Image to TGA(TARGA) .. this tool can convert TGA image file to GB-image BACK (!?)
    HOWEVER (!) Doofus image files are NOT plain image files; they contain assembler graphical code snippets in the header, 
-   and therefore, translating them from TGA to GB to a fully working format is a really difficult and laborious task. 
-   As you noticed, this tool is free (I might look into this later if I have some free time).
+   and therefore, translating them from TGA to GB-image to a fully working format is a really difficult and laborious task. 
+   As you noticed, this tool is free (I might look into this later if I have some free time , far future ?!).
 
 ~ usage: 
 
@@ -72,9 +72,9 @@ gb2tga.exe 0004_3f2.dat  >>> and the GB2TGA tool will convert your Doofus-GB-ima
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-(4) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER  "The Bone Shaker Architect" Engine --- TBSAplay.exe 0.1beta
+(4) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER  "The Bone Shaker Architect" Engine --- tbsaplay.exe 0.1beta
 
-■  TBSAplay.exe * NOT READY YET (!) >>>  
+■  tbsaplay.exe * NOT READY YET (!) >>>  
    Finally 0.1 First beta test relaase :-) working but BUGGY.. delayed , speed not fixed yet .. Im working on it 
 
 " Believe the unbelievable " The game Doofus uses Adlib music files in "tbs" format. 
