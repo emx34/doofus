@@ -1,6 +1,6 @@
 ■ DOOFUS --- MS DOS PLATFORM GAME MODIFICATION PROJECT (Borland C++ & x86 Assembler)
 
-Doofus is a masterpiece platform game made for MS-DOS. A high-quality platform game with stunning graphics.
+Doofus is a high-quality platform game with stunning graphics, a masterpiece made for MS-DOS.
 
 (!) Tested with DOSBOX-X (https://dosbox-x.com/)
 
