@@ -70,7 +70,7 @@ ________________________________________________________________________________
 
 ~ usage: 
 
-gb2tga.exe 0004_3f2.dat  >>> and the GB2TGA tool will convert your Doofus-GB-image into a TGA(TARGA) Photoshop file.
+gb2tga.exe 0004_3f2.dat  >>> and the GB2TGA tool will convert your Doofus-GB-image into a TGA(TARGA) Photoshop file = "0004_3f2.tga"
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
