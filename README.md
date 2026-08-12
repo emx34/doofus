@@ -59,7 +59,7 @@ gbview.exe 0005_3f2.dat
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(3) DOOFUS GAME *_3f2.dat GB-IMAGE-FILES to TGA(TARGA)PHOTOSHOP  CONVERTER --- gb2tga.exe 
+(3) DOOFUS GAME *_3f2.dat GB-IMAGE-FILES to TGA(TARGA)PHOTOSHOP  CONVERTER --- GB2tga.exe 
 
 ■  Gb2tga.exe , Working verion Tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can convert TGA image file to GB-image BACK (!?)
    HOWEVER (!) Doofus image files are NOT plain image files; they contain assembler graphical code snippets in the header, 
@@ -74,7 +74,7 @@ gb2tga.exe 0004_3f2.dat  >>> and the GB2TGA tool will convert your Doofus-GB-ima
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-(4) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER  "The Bone Shaker Architect" Engine --- tbsaplay.exe 0.1beta
+(4) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER  "(T)he (B)one (S)haker (A)rchitect" Engine --- TBSAplay.exe 0.1beta
 
 ■  Tbsaplay.exe * NOT READY YET (!) >>>  
    Finally 0.1 First beta test relaase :-) working but BUGGY.. delayed , speed not fixed yet .. Im working on it 
