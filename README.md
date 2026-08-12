@@ -2,7 +2,7 @@
 
 (!) Tested with DOSBOX-X (https://dosbox-x.com/)
 
-<img width="1285" height="1112" alt="doofus3" src="https://github.com/user-attachments/assets/884c1b79-929f-4cd2-b831-c5bb0126a05b" />
+<img width="1390" height="1105" alt="doofus2" src="https://github.com/user-attachments/assets/1ff25853-c1e4-48ab-89db-d165891389b0" />
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
