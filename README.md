@@ -59,7 +59,7 @@ gbview.exe 0005_3f2.dat
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-(3) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER  "The Bone Shaker Architect"  Sound-Engine Reverse_engineered --- TBSAplay.exe
+(3) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER  "The Bone Shaker Architect"  Sound-Engine Reverse_engineered --- TBSAplay.exe 0.1beta
 
 ■  TBSAplay.exe * NOT READY YET (!) >>>  
    Finally 0.1 First beta test relaase :-) working but BUGGY.. delayed , speed not fixed yet .. Im working on it 
