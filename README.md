@@ -82,7 +82,7 @@ ________________________________________________________________________________
 ■  Tbsaplay.exe * WORKING BUT NOT READY YET (!)   
    █ Finally 0.1 First beta test relaase :-) working but BUGGY.. delayed , speed not fixed yet .. Im working on it 
 
-" Believe the unbelievable " The game Doofus uses Adlib music files in "*.tbs" format. 
+" Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) 
 Player will be available as a standalone for the first time :-) The player operates as a complex mechanism (TSR)
 
 ~ usage: 
