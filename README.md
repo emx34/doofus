@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 0005_3f2.dat = Game Logo image (Doofus game logo)
 
-0006_3f2.dat = Doofus Boy dog monkey elephant image
+0006_3f2.dat = Doofus boy dog monkey elephant image
 
 0008_3f2.dat = HighScore image
 
