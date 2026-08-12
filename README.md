@@ -67,6 +67,9 @@ ________________________________________________________________________________
 " Believe the unbelievable " The game Doofus uses Adlib music files in "tbs" format. 
 Player will be available as a standalone for the first time :-) The player operates as a complex mechanism (TSR)
 
+~ usage: 
+
+tbsaplay.exe 0055_59e.tbs 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
