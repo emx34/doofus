@@ -76,8 +76,8 @@ ________________________________________________________________________________
 
 (4) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER  "(T)he (B)one (S)haker (A)rchitect" Engine --- TBSAplay.exe 0.1beta
 
-■  Tbsaplay.exe * NOT READY YET (!) >>>  
-   Finally 0.1 First beta test relaase :-) working but BUGGY.. delayed , speed not fixed yet .. Im working on it 
+■  Tbsaplay.exe * NOT READY YET (!)   
+   >>> Finally 0.1 First beta test relaase :-) working but BUGGY.. delayed , speed not fixed yet .. Im working on it 
 
 " Believe the unbelievable " The game Doofus uses Adlib music files in "*.tbs" format. 
 Player will be available as a standalone for the first time :-) The player operates as a complex mechanism (TSR)
