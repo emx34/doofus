@@ -77,10 +77,10 @@ and >>> GB2TGA tool will convert your Doofus-GB-image into a TGA(TARGA) Photosho
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-(4) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER  "(T)he (B)one (S)haker (A)rchitect" Engine --- TBSAplay.exe 0.2beta
+(4) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER  "(T)he (B)one (S)haker (A)rchitect" Engine --- TBSAplay.exe 0.3beta
 
 ■  Tbsaplay.exe * WORKING BUT NOT READY YET (!)   
-   █ Finally 0.2 beta test relaase :-) working but BUGGY.. There is some kind of small timing synchronization problem ?! 
+█ 0.3 beta test relaase :-) working but there is some kind of small timing synchronization problem ?! 
 
 " Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) 
 Player will be available as a standalone for the first time :-) The original adlib-player engine in the Doofus game operates as a complex mechanism.(TSR)
