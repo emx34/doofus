@@ -77,7 +77,7 @@ and >>> GB2TGA tool will convert your Doofus-GB-image into a TGA(TARGA) Photosho
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-(4) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER  "(T)he (B)one (S)haker (A)rchitect" Engine --- TBSAplay.exe 0.3beta
+(4) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe 0.3beta
 
 ■  Tbsaplay.exe * WORKING..  
 █ 0.3 beta test relaase :-) working but there is some kind of small timing synchronization problem ?! 
