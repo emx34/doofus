@@ -79,7 +79,7 @@ ________________________________________________________________________________
 
 (4) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER  "(T)he (B)one (S)haker (A)rchitect" Engine --- TBSAplay.exe 0.3beta
 
-■  Tbsaplay.exe * WORKING BUT NOT READY YET (!)   
+■  Tbsaplay.exe * WORKING..  
 █ 0.3 beta test relaase :-) working but there is some kind of small timing synchronization problem ?! 
 
 " Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) 
