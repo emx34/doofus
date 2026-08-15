@@ -79,7 +79,7 @@ ________________________________________________________________________________
 
 █ Tested with DOSBOX(OK) , DOSBox Staging(OK) , DOSBOX-X(!):There's a timing synchronization problem in DOSBOX-X
 Maybe something is missing in the emulation settings in DOSBOX-X? There are stutters(some kind echo problem) in the OPL player sound, 
-but there's no problem with the original DOSBOX and DOSBOX-Staging , they work normally.
+but there's NO problem with the original DOSBOX and DOSBOX-Staging , they work normally.
 
 Original classic DOSBOX ->> change/modify-settings ->> dosbox-0.74.conf 
 [sblaster]
