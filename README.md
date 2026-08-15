@@ -59,7 +59,7 @@ gbview.exe 0005_3f2.dat
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(3) DOOFUS GAME *_3f2.dat GB-IMAGE-FILES to TGA(TARGA)PHOTOSHOP  CONVERTER --- GB2tga.exe 
+(3) DOOFUS GAME GB-IMAGE-FILES(*_3f2.dat) to TGA(TARGA)PHOTOSHOP  CONVERTER --- GB2tga.exe 
 
 ■  Gb2tga.exe , working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (!?)
    HOWEVER (!) Doofus image files are NOT plain image files; they contain assembler graphical code snippets in the header, 
