@@ -2,19 +2,6 @@
 
 Doofus is a high-quality platform game with stunning graphics, a masterpiece made for MS-DOS.
 
-Tested with DOSBOX , DOSBox Staging , DOSBOX-X(!)
-(!):There's a timing synchronization problem in DOSBOX-X
-Maybe something is missing in the emulation settings ? There are stutters in the OPL player sound, 
-but there's no problem with the original DOSBOX and DOSBOX-Staging, they work normally.
-The OPL music player works normally in the original DOSBOX and DOSBox Staging versions.
-
-change/modify-settings: ->> dosbox-0.74xx.conf 
-[sblaster]
-oplmode=opl3
-oplemu=compat
-oplrate=44100
-
-
 <img width="1390" height="1105" alt="doofus2" src="https://github.com/user-attachments/assets/695c99ae-8f01-4f6d-9873-9d89f9a7e829" />
 
 _________________________________________________________________________________________________________________________________________________________________________________
