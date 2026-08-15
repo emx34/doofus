@@ -90,7 +90,7 @@ oplrate=44100
 ■  Tbsaplay.exe v0.4  %100 WORKING
 
 " Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) 
-Player will be available as a standalone for the first time :-) The original adlib-player engine in the Doofus game operates as a complex mechanism.(TSR) 
+Player will be available as a standalone for the first time :-) The original adlib-player engine in the Doofus game operates as a complex mechanism(TSR) 
 Extracting this player from within the game and making it work independently was a really laborious and tiring task.
 
 ~ usage: 
