@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 (1) - DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe 
 
-■  Doofext.exe -(Full working version)-
+■  Doofext.exe (Full working version)
 
 I wanted to contribute to the modification of Doofus game by making some small additions, 
 
