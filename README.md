@@ -24,11 +24,11 @@ Doofext.exe (Doofus gamedata.g-d asset deployment subsystem)
 
   ~ usage syntax options:
   
-doofext -x     .. eXtracts gamedata.g-d target entities into local \GD\ folder = UNPACK
+doofext -x     : eXtracts gamedata.g-d target entities into local \GD\ folder = UNPACK
   
-doofext -c     .. reCombines(reassembles) \GD\ folder contents dynamically back into archive = PACK
+doofext -c     : reCombines(reassembles) \GD\ folder contents dynamically back into archive = PACK
   
-doofext -as    .. displays original hardcoded file sizes matrix parameters (file name lister)  *** use this: doofext -as>log.txt
+doofext -as    : displays original hardcoded file sizes matrix parameters (file name lister)  *** use this: doofext -as>log.txt
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
