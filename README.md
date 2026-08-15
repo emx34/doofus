@@ -77,7 +77,7 @@ ________________________________________________________________________________
 
 (4) - DOOFUS GAME STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4
 
-█ v0.4 Tested with DOSBOX(OK) , DOSBox Staging(OK) , DOSBOX-X(!):There's a timing synchronization problem in DOSBOX-X
+█ TBSAplay.exe v0.4 Tested with DOSBOX(OK) , DOSBox Staging(OK) , DOSBOX-X(!):There's a timing synchronization problem in DOSBOX-X
 Maybe something is missing in the emulation settings in DOSBOX-X? There are stutters(some kind echo problem) in the OPL player sound, 
 but there's NO problem with the original DOSBOX and DOSBOX-Staging , they work normally.
 
