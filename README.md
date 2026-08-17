@@ -118,7 +118,8 @@ ________________________________________________________________________________
 
 ■ DOOFUS GAME ~ ANTI-PIRACY PROTECTION SCREEN : 
 
-<img width="665" height="696" alt="Doofus Protection screen(between levels)-2" src="https://github.com/user-attachments/assets/98a82986-f662-48d3-954d-fc24bd886448" />
+<img width="673" height="696" alt="Protection" src="https://github.com/user-attachments/assets/f19aed6a-297e-4385-962a-8bd2d5c05594" />
+
 
 
 **<ins>Memory addresses have been deleted (!)</ins>**
