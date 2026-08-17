@@ -99,6 +99,13 @@ tbsaplay.exe 0055_59e.tbs
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
+(5) - 237UNPAK 1.1a - Doofus *_237/*_327 Universal Unpacker/Packer [ INTERNAL ONLY / PRIVATE ]
+
+■ 237unpak.exe : Specially designed LZSS Decompression + Compression engine capable of processing *_237.dat and *._327.dat files.
+
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
 ___ The projects are not finished and it seems like it will take a long time ___
 
 ___ The source codes for the projects is currently *PRIVATE* ___
