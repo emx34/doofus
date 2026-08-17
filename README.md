@@ -122,7 +122,7 @@ ________________________________________________________________________________
 
 
 
-**<ins>Memory addresses have been deleted (!)</ins>**
+**<ins>Memory addresses have been erased (!)</ins>**
 
 I'm N0T giving details to <ins>lamers</ins> about Cracking , **professionals dont need such an explanation anyway ;-)**
 
