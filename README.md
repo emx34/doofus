@@ -116,6 +116,14 @@ The 0010_237.dat file contains the programmer names and text messages that appea
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
+■ DOOFUS GAME ~ ANTI-PIRACY PROTECTION SCREEN : 
+
+<img width="665" height="696" alt="Doofus Protection screen(between levels)-2" src="https://github.com/user-attachments/assets/11c0103c-3474-435f-ac2e-05d3575c8995" />
+
+
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
 ___ The projects are not finished and it seems like it will take a long time ___
 
 ___ The source codes for the projects is currently **PRIVATE** ___
