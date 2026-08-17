@@ -103,6 +103,10 @@ ________________________________________________________________________________
 
 ■ 237unpak.exe : Specially designed LZSS Decompression + Compression engine capable of processing *_237.dat and *._327.dat files.
 
+This tool unpacks the 0010_237.dat file, modifies it, then compresses/repacks it back to its original state, 
+allowing the game to open and run the file without corruption. 
+The 0010_237.dat file contains the programmer names and text messages that appear on the game's loading screen during the demo loop before the menu.
+
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
