@@ -101,7 +101,7 @@ ________________________________________________________________________________
 
 (5) - 237UNPAK 1.1a - Doofus *_237/*_327 Universal Unpacker/Packer [ INTERNAL ONLY / PRIVATE ]
 
-■ 237unpak.exe : Specially designed LZSS Decompression + Compression engine capable of processing *_237.dat and *._327.dat files.
+■ 237unpak.exe : Specially designed LZSS Decompression + Compression engine capable of processing >>> *_237.dat  &  *._327.dat files.
 
 This tool unpacks the 0010_237.dat file, modifies it, then compresses/repacks it back to its original state, 
 allowing the game to open and run the file without corruption. 
