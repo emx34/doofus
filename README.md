@@ -120,4 +120,4 @@ ___ The projects are not finished and it seems like it will take a long time ___
 
 ___ The source codes for the projects is currently **PRIVATE** ___
 
-___ █ Istanbul / TURKIYE / 2026 
+___ █  Istanbul / TURKIYE / 2026 
