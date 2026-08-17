@@ -102,7 +102,7 @@ tbsaplay.exe 0055_59e.tbs
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(5) - 237UNPAK 1.1a - Doofus *_237/*_327 Universal Unpacker/Packer [ INTERNAL ONLY / PRIVATE ]
+(5) - 237UNPAK 1.1a - Doofus *_237/*_327 files Universal Unpacker/Packer [ INTERNAL ONLY / PRIVATE ]
 
 <img width="962" height="465" alt="237" src="https://github.com/user-attachments/assets/b298fe3e-35a1-4aa2-8433-31e4cf1bceae" />
 
