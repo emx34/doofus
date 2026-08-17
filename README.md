@@ -122,7 +122,7 @@ ________________________________________________________________________________
 
 Memory addresses have been deleted, 
 
-I'm N0T giving details to <ins>lamers</ins> about Cracking,**professionals dont need such an explanation anyway ;-)**
+I'm N0T giving details to <ins>lamers</ins> about Cracking , **professionals dont need such an explanation anyway ;-)**
 
 
 
