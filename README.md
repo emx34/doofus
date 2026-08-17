@@ -6,7 +6,7 @@ Doofus is a high-quality platform game with stunning graphics & beautiful musics
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(1) - DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe 
+(1) - DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) = Unpacker/Packer --- Doofext.exe 
 
 ■  Doofext.exe (Full working version)
 
