@@ -121,7 +121,7 @@ ________________________________________________________________________________
 <img width="665" height="696" alt="Doofus Protection screen(between levels)-2" src="https://github.com/user-attachments/assets/98a82986-f662-48d3-954d-fc24bd886448" />
 
 
-**<ins>Memory addresses have been deleted (!)</ins>** 
+$\color{red}{\text{**<ins>Memory addresses have been deleted (!)</ins>**}}$
 
 I'm N0T giving details to <ins>lamers</ins> about Cracking , **professionals dont need such an explanation anyway ;-)**
 
