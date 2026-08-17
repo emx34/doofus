@@ -111,7 +111,7 @@ ________________________________________________________________________________
 
 This tool unpacks the 0010_237.dat(This file is packaged and located inside the gamedata.g-d archive.) file.. you can modify it, 
 then compresses/repacks it back to its 0riginal state, allowing the game to open and run the file <ins>without corruption.</ins>
-The 0010_237.dat file contains the programmer names and text messages that appear on the game's loading screen during the demo loop before the menu.
+The 0010_237.dat file contains the programmer names and text messages that appear on the demo loop before the menu.
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
