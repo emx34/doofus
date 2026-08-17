@@ -79,6 +79,9 @@ ________________________________________________________________________________
 
 <img width="614" height="261" alt="adlib" src="https://github.com/user-attachments/assets/5306eaf9-b413-4ec2-bd41-aee77b24fe2d" />
 
+" Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) 
+Player will be available as a standalone for the first time :-) The original adlib-player engine in the Doofus game operates as a complex mechanism(TSR) 
+Extracting this player from within the game and making it work independently was a really laborious and tiring task.
 
 █ TBSAplay.exe v0.4 Tested with DOSBOX(OK) , DOSBox Staging(OK) , DOSBOX-X(!):There's a timing synchronization problem in DOSBOX-X
 maybe something is missing in the emulation settings/config in DOSBOX-X? There are stutters(some kind echo problem) in the OPL player sound, 
@@ -91,10 +94,6 @@ oplemu=compat
 oplrate=44100
 
 ■  Tbsaplay.exe v0.4  %100 WORKING
-
-" Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) 
-Player will be available as a standalone for the first time :-) The original adlib-player engine in the Doofus game operates as a complex mechanism(TSR) 
-Extracting this player from within the game and making it work independently was a really laborious and tiring task.
 
 ~ usage: 
 
