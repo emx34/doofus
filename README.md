@@ -120,7 +120,8 @@ ________________________________________________________________________________
 
 <img width="665" height="696" alt="Doofus Protection screen(between levels)-2" src="https://github.com/user-attachments/assets/11c0103c-3474-435f-ac2e-05d3575c8995" />
 
-Memory addresses have been deleted, I'm N0T giving details to <ins>lamers</ins> about Cracking, **professionals** dont need such an explanation anyway :-)
+Memory addresses have been deleted, I'm N0T giving details to <ins>lamers</ins> about Cracking, 
+**professionals dont need such an explanation anyway ;-)**
 
 
 
