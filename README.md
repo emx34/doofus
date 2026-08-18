@@ -66,7 +66,7 @@ ________________________________________________________________________________
    and therefore, translating them from TGA to GB-image to a fully working format is a really difficult and laborious task. 
    Reverse Operation[TGA to GB(game-image)] NOT working with v1.0 .. ONLY one WAY ! As you noticed, this tool is FREE
    
-   **[UPDATE: INTERNAL ONLY - PRIVATE v2.0 version TESTED and the program works perfectly in both directions, 100% correctly = GB(gameimage)to TGA + TGA to GB(gameimage) ]**
+   **[UPDATE: INTERNAL ONLY - PRIVATE v2.0 version TESTED and the program works perfectly in both directions, 100% correctly = GB(gameimage)to TGA & TGA to GB(gameimage) ]**
    With version 2.0, you can take the graphics from the game's loading screen, modify them with Photoshop, and then put them back/pack them without any issues, game is working :-) 
 
 ~ usage: 
