@@ -59,14 +59,15 @@ gbview.exe 0005_3f2.dat
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(3) DOOFUS GAME GB-IMAGE-FILES(*_3f2.dat) to TGA(TARGA)PHOTOSHOP  CONVERTER --- GB2tga.exe 
+(3) DOOFUS GAME GB-IMAGE-FILES(*_3f2.dat) to TGA(TARGA)PHOTOSHOP  CONVERTER --- GB2tga.exe v1.0
 
-■  Gb2tga.exe , working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (!?)
+■  Gb2tga.exe v1.0 working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (!?)
    HOWEVER (!) Doofus image files are NOT plain image files; they contain assembler graphical code snippets in the header, 
    and therefore, translating them from TGA to GB-image to a fully working format is a really difficult and laborious task. 
    Reverse Operation NOT tested on working game ?! It most likely won't work... there are some details involved, such as the size of the gamedata.g-d file, 
    the presence of asm VGA code in the gb-image header, etc. These aren't easy tasks !
-   As you noticed, this tool is FREE (I might look into this later if I have some free time , far far future ?!).
+   As you noticed, this tool is FREE 
+   **[UPDATE: INTERNAL ONLY - PRIVATE v2.0 version TESTED and the program works perfectly in both directions, 100% correctly = GB(gameimage)to TGA + TGA to GB(gameimage) ]**
 
 ~ usage: 
 
