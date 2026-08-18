@@ -71,6 +71,9 @@ ________________________________________________________________________________
    I received help regarding the embedded image header with x86 assembly VGA code, which sped up the process. Version 2.0 was completed quickly. 
    Doofus image files are not just plain images; the image file header contains x86 assembly VGA code, and the game uses this code at runtime.
 
+   <img width="669" height="188" alt="0004_3F2" src="https://github.com/user-attachments/assets/9fc525b4-4425-48b5-bca9-4df299ee7e93" />
+
+
 ~ usage: 
 
 gb2tga.exe 0004_3f2.dat    
