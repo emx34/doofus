@@ -125,8 +125,7 @@ ________________________________________________________________________________
 
 ■ DOOFUS GAME ~ ANTI-PIRACY PROTECTION SCREEN : 
 
-<img width="673" height="696" alt="Protection" src="https://github.com/user-attachments/assets/f19aed6a-297e-4385-962a-8bd2d5c05594" />
-
+<img width="673" height="696" alt="Protection" src="https://github.com/user-attachments/assets/8d6d5f0c-fbf4-4177-8372-e0570c4a7e51" />
 
 
 **<ins>Memory addresses have been erased (!)</ins>**
