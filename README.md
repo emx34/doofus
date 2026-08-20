@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 (2) - DOOFUS GAME GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.1a 
 
-■  GBview.exe * NOT completed yet .. tested with = 0004_3f2.dat , 0005_3f2.dat , 0008_3f2.dat , 0062_3f2.dat 
+■  GBview.exe * tested with = 0004_3f2.dat , 0005_3f2.dat , 0008_3f2.dat , 0062_3f2.dat 
 
 0004_3f2.dat = Company Logo image (Prestige Softwareentwicklung GmbH logo)
 
