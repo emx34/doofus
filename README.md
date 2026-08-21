@@ -78,7 +78,7 @@ INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability
    **[UPDATE: INTERNAL ONLY - PRIVATE v2.0 version TESTED and the program works perfectly in both directions,**
    **<br> 100% correctly working = GB(gameimage)to TGA & TGA to GB(gameimage) ]**
    With version 2.0, you can take the graphics from the game, modify them with Photoshop, and then put them back in game without any issues, game is working :-)
-   I received help regarding the embedded image header with x86 assembly VGA code, which sped up the process. Version 2.0 was completed. 
+   I received special help :-) regarding the embedded image header with x86 assembly VGA code, which sped up the process. Version 2.0 was completed. 
    Doofus image files are not just plain images; the image file header contains x86 assembly VGA code, and the game uses this code at runtime. <br>
    **v2.0 forward and backward conversion technology is 100% functional and has been tested**
 
