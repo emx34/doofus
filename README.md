@@ -91,7 +91,7 @@ ________________________________________________________________________________
 
 (4) - **STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4**
 
-<img width="614" height="261" alt="adlib" src="https://github.com/user-attachments/assets/5306eaf9-b413-4ec2-bd41-aee77b24fe2d" />
+<img width="748" height="261" alt="adlib" src="https://github.com/user-attachments/assets/bf0a00db-2874-4be4-8daa-788f66cd19a3" />
 
 
 " Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) **ALL soundtrack files included** :-)
