@@ -75,7 +75,7 @@ INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability (%1
    Reverse Operation TGA to GB(game-image) NOT working with version 1.0.. only one way
    
    **[UPDATE: INTERNAL ONLY - PRIVATE v2.0 version TESTED and the program works perfectly in both directions, 100% correctly working = GB(gameimage)to TGA & TGA to GB(gameimage) ]**
-   With version 2.0, you can take the graphics from the game's loading screen, modify them with Photoshop, and then put them back in game without any issues, game is working :-)
+   With version 2.0, you can take the graphics from the game, modify them with Photoshop, and then put them back in game without any issues, game is working :-)
    I received help regarding the embedded image header with x86 assembly VGA code, which sped up the process. Version 2.0 was completed. 
    Doofus image files are not just plain images; the image file header contains x86 assembly VGA code, and the game uses this code at runtime.
 
