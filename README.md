@@ -84,8 +84,9 @@ INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability
 
    <img width="669" height="188" alt="0004_3F2" src="https://github.com/user-attachments/assets/9fc525b4-4425-48b5-bca9-4df299ee7e93" />
 
-
+<br>
 ~ usage: 
+<br>
 <br>
 gb2tga.exe 0004_3f2.dat 
 <br>
