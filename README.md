@@ -2,7 +2,7 @@
 
 Doofus is a high-quality platform game with stunning graphics & beautiful musics .. a masterpiece made for MS-DOS.
 
-<img width="1390" height="1316" alt="doofus3" src="https://github.com/user-attachments/assets/de866795-75b4-4e1b-b86b-bdd3653234c0" />
+<img width="1390" height="1316" alt="doofus3" src="https://github.com/user-attachments/assets/09f4f1ef-306e-4d76-a4a5-0c18736baa22" />
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
