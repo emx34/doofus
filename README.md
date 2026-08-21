@@ -85,6 +85,9 @@ It's possible to view the game's graphics(some of *.dat files) using this tool a
 gbview.exe 0005_3f2.dat
 
 
+<img width="749" height="411" alt="gbview" src="https://github.com/user-attachments/assets/1ea6a024-c1f3-41c8-a11e-080b686c9b7e" />
+
+
 _________________________________________________________________________________________________________________________________________________________________________________
 
 **(3) DOOFUS GB-IMAGE-FILES(*_3f2.dat) to TGA Photoshop CONVERTER --- GB2tga.exe v1.0**
