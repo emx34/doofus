@@ -9,7 +9,8 @@ The game's music was really great, and after long and intense effort, I converte
 After that, I focused on the unfinished graphics operations and made significant progress there as well. For the first time, Doofus's graphics have reached a level where they can be modified.
 Spending hours and days in front of the debugger and examining x86 assembly code is necessary... it's crazy and truly exhausting for the eyes and brain.
 
-The next step will be the in-game graphics and sprites, but that's a really tiring job, requiring hours of studying and decoding x86 assembly machine language code, developing Borland C++ code, and seriously focusing on this..
+The next step will be the in-game graphics and sprites, but that's a really tiring job, requiring hours of studying and decoding x86 assembly machine language code, developing Borland C++ code, 
+and seriously focusing on this..
 
 
 
@@ -105,6 +106,7 @@ ________________________________________________________________________________
 
 
 **(4)** - **STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4**
+
 
 <img width="834" height="472" alt="adlib" src="https://github.com/user-attachments/assets/8b10a6a6-28e4-4239-a2e6-727166615c06" />
 
