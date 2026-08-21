@@ -118,7 +118,10 @@ Extracting this player from within the game and making it work independently was
 maybe something is missing in the emulation settings/config in DOSBOX-X? There are stutters(some kind echo problem) in the OPL player sound, 
 but there's NO problem with the original DOSBOX and DOSBOX-Staging, they are working properly.
 
-Original classic DOSBOX ->> change/modify-settings ->> dosbox-0.74.conf ->>
+Original classic DOSBOX 
+
+->> change/modify-settings ->> dosbox-0.74.conf ->>
+
 [sblaster]
 oplmode=opl3
 oplemu=compat
