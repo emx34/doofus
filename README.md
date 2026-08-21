@@ -98,7 +98,7 @@ ________________________________________________________________________________
    and therefore, translating them from TGA to GB-image to a fully working format is a really difficult and laborious task. 
    Reverse Operation TGA to GB(game-image) NOT working with version 1.0.. only one way
    
-   **UPDATE: INTERNAL ONLY - PRIVATE v2.0 version TESTED and the program works perfectly in both directions,**
+   **UPDATE: INTERNAL ONLY - PRIVATE v2.0 version (NOT released) TESTED and the program works perfectly in both directions,**
    **<br> 100% correctly working = GB(gameimage)to TGA & TGA to GB(gameimage)**
    With version 2.0, you can take the graphics from the game, modify them with Photoshop, and then put them back in game without any issues, game is working :-)
    I received special help :-) regarding the embedded image header with x86 assembly VGA code, which sped up the process(Otherwise, this could have taken a month or more) 
