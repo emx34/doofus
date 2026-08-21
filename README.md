@@ -20,7 +20,7 @@ and seriously focusing on this..
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-**(1) - DOOFUS "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext3.exe v2.0** 
+**(1) - DOOFUS gamedata.g-d EXTERNAL ARCHIVE FILE EXTRACTOR+REASSEMBLER(Combiner) --- Doofext3.exe v2.0** 
 
 ■  **Doofext.exe** (%100 Full working version)
 
