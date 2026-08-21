@@ -153,8 +153,8 @@ ________________________________________________________________________________
 
 ■ **237unpak.exe** : Specially designed LZSS Decompression + Compression engine, capable of processing >>> *_237.dat  &  *._327.dat files.
 
-This tool **decompresses/unpacks** the 0010_237.dat(This file is packaged and located inside the gamedata.g-d archive.)and all *.237/327 files.. 
-you can modify it, then **compresses/repacks** it back to its 0riginal state, allowing the game to open and run the file **<ins>without corruption.</ins>**
+This tool **Decompresses/Unpacks** the 0010_237.dat(This file is packaged and located inside the gamedata.g-d archive.)and all *.237/327 files.. 
+you can modify it, then **Compresses/Packs** it back to its 0riginal state, allowing the game to open and run the file **<ins>without corruption.</ins>**
 The 0010_237.dat file contains the programmer names and text messages that appear on the demo loop before the start menu.
 Files *_237 and *_327 contain memory operations and VGA x86 program codes, plus some information used in the game.
 
