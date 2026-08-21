@@ -1,4 +1,4 @@
-■ DOOFUS --- MS DOS PLATFORM GAME MODIFICATION PROJECT (Borland C++ & x86 Assembler)
+ ■ DOOFUS --- MS DOS PLATFORM GAME MODIFICATION PROJECT (Borland C++ & x86 Assembler)
 
 Doofus is a high-quality platform game with stunning graphics & beautiful musics .. a masterpiece made for MS-DOS.<br>
 Doofus uses **Adlib music files in TBS format, all the game's music/soundtrack is included in the tbsaplay.zip package**
@@ -87,7 +87,7 @@ INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability
 
 ~ usage: 
 
-gb2tga.exe 0004_3f2.dat &nbsp;&nbsp;&nbsp; (With version 1.0, only one-way forward operation is possible = GB to TGA(Photoshop))  
+gb2tga.exe 0004_3f2.dat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *with version 1.0, only one-way forward operation is possible = GB to TGA(Photoshop)*
 and >>> GB2TGA tool will convert your Doofus-GB-image into a TGA(TARGA) Photoshop file = "0004_3f2.tga"
 _________________________________________________________________________________________________________________________________________________________________________________
 
