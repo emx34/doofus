@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 (1) - DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) = Unpacker/Packer --- Doofext.exe 
 
-■  Doofext.exe (%100 Full working version)
+■  **Doofext.exe** (%100 Full working version)
 
 I wanted to contribute to the modification of Doofus game by making some small additions, 
 
@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 (2) - DOOFUS GAME GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5h *UPDATED* 
 
-■  GBview.exe (%100 Full working version)
+■  **GBview.exe** (%100 Full working version)
 
 0004_3f2.dat = Company Logo image (Prestige Softwareentwicklung GmbH logo)
 
@@ -69,7 +69,7 @@ ________________________________________________________________________________
 
 INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability (%100 tested forward and backward)
 
-■  Gb2tga.exe v1.0 working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (!?)
+■  **Gb2tga.exe** v1.0 working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (!?)
    HOWEVER (!) Doofus image files are NOT plain image files; they contain assembler graphical code snippets in the header, 
    and therefore, translating them from TGA to GB-image to a fully working format is a really difficult and laborious task. 
    Reverse Operation TGA to GB(game-image) NOT working with version 1.0.. only one way
@@ -94,11 +94,11 @@ ________________________________________________________________________________
 <img width="614" height="261" alt="adlib" src="https://github.com/user-attachments/assets/5306eaf9-b413-4ec2-bd41-aee77b24fe2d" />
 
 
-" Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) ALL soundtrack files included :-)
-Player will be available as a standalone for the first time :-) The original adlib-player engine in the Doofus game operates as a complex mechanism(TSR) 
+" Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) **ALL soundtrack files included** :-)
+**Player will be available as a standalone for the first time** :-) The original adlib-player engine in the Doofus game operates as a complex mechanism(TSR) 
 Extracting this player from within the game and making it work independently was a really laborious and tiring task.
 
-█ TBSAplay.exe v0.4 Tested with DOSBOX(OK) , DOSBox Staging(OK) , DOSBOX-X(!):There's a timing synchronization problem in DOSBOX-X
+█ **TBSAplay.exe** v0.4 Tested with DOSBOX(OK) , DOSBox Staging(OK) , DOSBOX-X(!):There's a timing synchronization problem in DOSBOX-X
 maybe something is missing in the emulation settings/config in DOSBOX-X? There are stutters(some kind echo problem) in the OPL player sound, 
 but there's NO problem with the original DOSBOX and DOSBOX-Staging, they are working properly.
 
@@ -122,7 +122,7 @@ ________________________________________________________________________________
 
 
 
-■ 237unpak.exe : Specially designed LZSS Decompression + Compression engine, capable of processing >>> *_237.dat  &  *._327.dat files.
+■ **237unpak.exe** : Specially designed LZSS Decompression + Compression engine, capable of processing >>> *_237.dat  &  *._327.dat files.
 
 This tool **decompresses/unpacks** the 0010_237.dat(This file is packaged and located inside the gamedata.g-d archive.)and all *.237/327 files.. 
 you can modify it, then **compresses/repacks** it back to its 0riginal state, allowing the game to open and run the file **<ins>without corruption.</ins>**
