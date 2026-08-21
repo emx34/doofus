@@ -88,7 +88,7 @@ INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability
 ~ usage: 
 
 gb2tga.exe 0004_3f2.dat 
-and >>> GB2TGA tool will convert your Doofus-GB-image into a TGA(TARGA) Photoshop file = "0004_3f2.tga"
+and >>> GB2TGA tool will convert your Doofus-GB-image into a TGA(TARGA) Photoshop file = "0004_3f2.tga" <br>
  **with version 1.0 (free download version), only one-way forward operation is possible = GB to TGA(Photoshop)**
 _________________________________________________________________________________________________________________________________________________________________________________
 
