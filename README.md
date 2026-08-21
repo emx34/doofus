@@ -8,8 +8,7 @@ After a week to ten days of exhausting work, I've made quite good progress on th
 The game's music was really great, and after long and intense effort, I converted the adlib player assembler code into a standalone player that runs directly from the MS-DOS command line.
 After that, I focused on the unfinished graphics operations and made significant progress there as well. For the first time, Doofus's graphics have reached a level where they can be modified. 
 
-The next step will be the in-game graphics and sprites, but that's a really tiring job, requiring hours of studying and decoding x86 assembly machine language code, developing Borland C++ code, and seriously focusing on this.
-
+The next step will be the in-game graphics and sprites, but that's a really tiring job, requiring hours of studying and decoding x86 assembly machine language code, developing Borland C++ code, and seriously focusing on this..
 
 
 <img width="1390" height="1316" alt="doofus4" src="https://github.com/user-attachments/assets/737a496d-5563-488e-89f5-efb5ef9974c4" />
