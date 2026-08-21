@@ -45,7 +45,7 @@ ________________________________________________________________________________
 
 0008_3f2.dat = HighScore image
 
-0018_48b.dat = The market and the picture of the man that appear at the end of the level.
+0018_48b.dat = The market and the picture of the man that appear at the end of the level
 
 0062_3f2.dat = Gameover image
 
