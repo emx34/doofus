@@ -172,7 +172,7 @@ Normally, only the decompressor/unpacker code runs within the game, and no other
 I examined the decompressor code within the game and reverse-engineered it to write a Compressor/Packer code from scratch (237UNPAK.exe). 
 This tool compresses/packs the game files in parallel with, or even with better compression ratios than, 
 the original Compressor/Packer in the hands of the game's software company's programmers, and in a compatible way.
-Result = Game files compressed with 237UNPAK.exe are decompressed/unpacked by doofus.exe without corruption or errors, in their original form.***
+Result = Game files compressed with 237UNPAK.exe are decompressed/unpacked by doofus.exe **<ins>without corruption or errors,</ins>** in their original form.***
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
