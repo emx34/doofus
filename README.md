@@ -1,6 +1,7 @@
 ■ DOOFUS --- MS DOS PLATFORM GAME MODIFICATION PROJECT (Borland C++ & x86 Assembler)
 
 Doofus is a high-quality platform game with stunning graphics & beautiful musics .. a masterpiece made for MS-DOS.
+Doofus uses Adlib music files in *.tbs format, all the game's music/soundtrack is included in the tbsaplay.zip package.
 
 <img width="1390" height="1316" alt="doofus4" src="https://github.com/user-attachments/assets/2ad47249-3f71-4b7a-8b93-4cc5249e7f9a" />
 
