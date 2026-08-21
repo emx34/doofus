@@ -14,7 +14,8 @@ and seriously focusing on this..
 
 
 
-<img width="1390" height="1316" alt="doofus4" src="https://github.com/user-attachments/assets/737a496d-5563-488e-89f5-efb5ef9974c4" />
+<img width="1390" height="1316" alt="doofus4" src="https://github.com/user-attachments/assets/8b2eb4f8-05d1-4c52-8ab3-96fa483f0c7f" />
+
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
@@ -56,6 +57,8 @@ ________________________________________________________________________________
 0006_3f2.dat = Doofus boy dog monkey elephant image
 
 0008_3f2.dat = HighScore image
+
+0015_43e.dat = Bonus screen
 
 0018_48b.dat = The market and the picture of the man that appear at the end of the level
 
