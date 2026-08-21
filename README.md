@@ -20,7 +20,7 @@ and seriously focusing on this..
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-**(1)** - DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe 
+**(1) - DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe** 
 
 ■  **Doofext.exe** (%100 Full working version)
 
@@ -46,7 +46,7 @@ doofext -as    : displays original hardcoded file sizes matrix parameters (file 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-**(2)** - DOOFUS GAME GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5i *UPDATED* 
+**(2) - DOOFUS GAME GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5i *UPDATED*** 
 
 ■  **GBview.exe** (%100 Full working version)
 
