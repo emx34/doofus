@@ -21,6 +21,37 @@ and seriously focusing on this..
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
+**(1) - DOOFUS gamedata.g-d EXTERNAL ARCHIVE FILE EXTRACTOR+REASSEMBLER(Combiner) --- Doofext3.exe v2.0** 
+
+■  **Doofext.exe** (%100 Full working version)
+
+
+<img width="785" height="372" alt="doofext" src="https://github.com/user-attachments/assets/88a94817-b89b-4074-9913-b2aeecc7edca" />
+
+
+The game's main executable file is compressed/protected with PKLite. 
+After unpacking it, the executable file becomes fully open to reverse engineering, and the real work begins from this point. 
+**As a first step, I started by writing a small tool that opens the game's external data archive file "gamedata.g-d," and this is complete. 
+Now, unlike previous reverse engineering attempts, there's no need for a Java-based program. 
+Its using the MS-DOS command-line `doofext.exe`,** 
+all files in the "gamedata.g-d" archive can be easily **(1) unpacked** into the "\GD" folder, and then 
+**(2) reassembled(pack) to re-create** the "gamedata.g-d" file. **(Unpacker & Packer)**
+
+Doofext.exe (Doofus gamedata.g-d asset deployment subsystem) 
+
+  ~ usage syntax options:
+  
+doofext -x     : eXtracts gamedata.g-d target entities into local \GD\ folder **(UNPACK)**
+  
+doofext -c     : reCombines(reassembles) \GD\ folder contents dynamically back into archive **(PACK)**
+  
+doofext -as    : displays original hardcoded file sizes matrix parameters (file name lister)  *** use this: doofext -as>log.txt
+
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+
+
 **(4)** - **STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4**
 
 
@@ -51,36 +82,9 @@ oplrate=44100
 
 tbsaplay.exe 0055_59e.tbs 
 
-_________________________________________________________________________________________________________________________________________________________________________________
-
-
-**(1) - DOOFUS gamedata.g-d EXTERNAL ARCHIVE FILE EXTRACTOR+REASSEMBLER(Combiner) --- Doofext3.exe v2.0** 
-
-■  **Doofext.exe** (%100 Full working version)
-
-
-<img width="785" height="372" alt="doofext" src="https://github.com/user-attachments/assets/88a94817-b89b-4074-9913-b2aeecc7edca" />
-
-
-The game's main executable file is compressed/protected with PKLite. 
-After unpacking it, the executable file becomes fully open to reverse engineering, and the real work begins from this point. 
-**As a first step, I started by writing a small tool that opens the game's external data archive file "gamedata.g-d," and this is complete. 
-Now, unlike previous reverse engineering attempts, there's no need for a Java-based program. 
-Its using the MS-DOS command-line `doofext.exe`,** 
-all files in the "gamedata.g-d" archive can be easily **(1) unpacked** into the "\GD" folder, and then 
-**(2) reassembled(pack) to re-create** the "gamedata.g-d" file. **(Unpacker & Packer)**
-
-Doofext.exe (Doofus gamedata.g-d asset deployment subsystem) 
-
-  ~ usage syntax options:
-  
-doofext -x     : eXtracts gamedata.g-d target entities into local \GD\ folder **(UNPACK)**
-  
-doofext -c     : reCombines(reassembles) \GD\ folder contents dynamically back into archive **(PACK)**
-  
-doofext -as    : displays original hardcoded file sizes matrix parameters (file name lister)  *** use this: doofext -as>log.txt
 
 _________________________________________________________________________________________________________________________________________________________________________________
+
 
 **(2) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5i UPDATED** 
 
