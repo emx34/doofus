@@ -8,7 +8,7 @@ Doofus uses **Adlib music files in TBS format, all the game's music/soundtrack i
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(1) - DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) = Unpacker/Packer --- Doofext.exe 
+**(1)** - DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) = Unpacker/Packer --- Doofext.exe 
 
 ■  **Doofext.exe** (%100 Full working version)
 
@@ -34,7 +34,7 @@ doofext -as    : displays original hardcoded file sizes matrix parameters (file 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(2) - DOOFUS GAME GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5h *UPDATED* 
+**(2)** - DOOFUS GAME GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5h *UPDATED* 
 
 ■  **GBview.exe** (%100 Full working version)
 
@@ -66,7 +66,7 @@ gbview.exe 0005_3f2.dat
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(3) DOOFUS GAME GB-IMAGE-FILES(*_3f2.dat) to TGA PHOTOSHOP CONVERTER --- GB2tga.exe v1.0
+**(3)** DOOFUS GAME GB-IMAGE-FILES(*_3f2.dat) to TGA PHOTOSHOP CONVERTER --- GB2tga.exe v1.0
 
 INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability (%100 tested forward and backward)
 
@@ -90,7 +90,7 @@ and >>> GB2TGA tool will convert your Doofus-GB-image into a TGA(TARGA) Photosho
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-(4) - **STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4**
+**(4)** - **STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4**
 
 <img width="748" height="261" alt="adlib" src="https://github.com/user-attachments/assets/bf0a00db-2874-4be4-8daa-788f66cd19a3" />
 
@@ -117,7 +117,7 @@ tbsaplay.exe 0055_59e.tbs
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-(5) - **237UNPAK 1.1a** - Doofus *_237/*_327 files Universal Unpacker/Packer [ INTERNAL ONLY / PRIVATE ]
+**(5)** - **237UNPAK 1.1a** - Doofus *_237/*_327 files Universal Unpacker/Packer [ INTERNAL ONLY / PRIVATE ]
 
 <img width="962" height="465" alt="237unpak" src="https://github.com/user-attachments/assets/4bc00a94-80c8-4be0-9221-c4afd5b0dffa" />
 
@@ -133,7 +133,7 @@ Files *_237 and *_327 contain memory operations and VGA x86 program codes, plus 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-■ DOOFUS GAME ~ ANTI-PIRACY PROTECTION SCREEN : 
+■ **DOOFUS GAME ~ ANTI-PIRACY PROTECTION SCREEN :** 
 
 <img width="673" height="696" alt="Protection" src="https://github.com/user-attachments/assets/8d6d5f0c-fbf4-4177-8372-e0570c4a7e51" />
 
