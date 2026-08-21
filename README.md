@@ -83,7 +83,6 @@ INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability
    **v2.0 forward and backward conversion technology is 100% functional and has been tested**
 
    <img width="669" height="188" alt="0004_3F2" src="https://github.com/user-attachments/assets/9fc525b4-4425-48b5-bca9-4df299ee7e93" />
-
 <br><br>
 ~ usage: 
 <br>
