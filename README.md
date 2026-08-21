@@ -68,7 +68,7 @@ ________________________________________________________________________________
 
 **(3)** DOOFUS GAME GB-IMAGE-FILES(*_3f2.dat) to TGA PHOTOSHOP CONVERTER --- GB2tga.exe v1.0
 
-INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability (%100 tested forward and backward)
+INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability 
 
 ■  **Gb2tga.exe** v1.0 working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (!?)
    HOWEVER (!) Doofus image files are NOT plain image files; they contain assembler graphical code snippets in the header, 
@@ -79,6 +79,7 @@ INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability (%1
    With version 2.0, you can take the graphics from the game, modify them with Photoshop, and then put them back in game without any issues, game is working :-)
    I received help regarding the embedded image header with x86 assembly VGA code, which sped up the process. Version 2.0 was completed. 
    Doofus image files are not just plain images; the image file header contains x86 assembly VGA code, and the game uses this code at runtime.
+   **(v2.0 Version's forward and backward reversing technology is 100% functional and has been tested)**
 
    <img width="669" height="188" alt="0004_3F2" src="https://github.com/user-attachments/assets/9fc525b4-4425-48b5-bca9-4df299ee7e93" />
 
