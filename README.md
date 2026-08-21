@@ -3,7 +3,7 @@
 Doofus is a high-quality platform game with stunning graphics & beautiful musics .. a masterpiece made for MS-DOS.<br>
 Doofus uses **Adlib music files in TBS format, all the game's music/soundtrack is included in the tbsaplay.zip package**
 
-<img width="1390" height="1316" alt="doofus4" src="https://github.com/user-attachments/assets/2ad47249-3f71-4b7a-8b93-4cc5249e7f9a" />
+<img width="1390" height="1316" alt="doofus4" src="https://github.com/user-attachments/assets/737a496d-5563-488e-89f5-efb5ef9974c4" />
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
