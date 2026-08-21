@@ -90,6 +90,7 @@ GB2tga.exe 0004_3f2.dat
 
 
 and >>> GB2tga tool will convert your Doofus-GB-image into a TGA(TARGA) Photoshop file = "0004_3f2.tga" 
+
 with version 1.0 (free download version) only one-way forward operation is possible: GB to TGA(Photoshop)
 _________________________________________________________________________________________________________________________________________________________________________________
 
