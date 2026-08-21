@@ -160,6 +160,7 @@ Files *_237 and *_327 contain memory operations and VGA x86 program codes, plus 
 
 <img width="661" height="575" alt="lzss" src="https://github.com/user-attachments/assets/4cc02c12-5675-4144-b038-9c272a59e5da" />
 
+$\color{#58A6FF}{\textsf{
 ***There's a very important point and detail I want to highlight here... The LZSS code used in the Doofus game was designed and released solely for the Decompressor/Unpack process. 
 There's no LZSS compressor code in the game itself :-) ?! The Compressor/Packer code is only in the hands of the programmers at the software company that produced the game. 
 Normally, only the decompressor/unpacker code runs within the game, and no other code exists :-) After much effort and with the help of AI, 
@@ -167,7 +168,7 @@ I examined the decompressor code within the game and reverse-engineered it to wr
 This tool compresses/packs the game files in parallel with, or even with better compression ratios than, 
 the original Compressor/Packer in the hands of the game's software company's programmers, and in a compatible way.
 Result = Game files compressed with 237UNPAK.exe are decompressed/unpacked by doofus.exe without corruption or errors, in their original form.***
-
+}}$
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
