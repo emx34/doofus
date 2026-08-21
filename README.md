@@ -20,6 +20,39 @@ and seriously focusing on this..
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
+**(4)** - **STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4**
+
+
+<img width="834" height="472" alt="adlib" src="https://github.com/user-attachments/assets/8b10a6a6-28e4-4239-a2e6-727166615c06" />
+
+
+
+" Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) **ALL soundtrack files included** :-)
+**Player will be available as a standalone for the first time** :-) The original adlib-player engine in the Doofus game operates as a complex mechanism(TSR) 
+Extracting this player from within the game and making it work independently was a really laborious and tiring task.
+
+█ **TBSAplay.exe** v0.4 Tested with **DOSBOX(OK)** , **DOSBox Staging(OK)** , **DOSBOX-X(!)**:There's a timing synchronization problem in DOSBOX-X
+maybe something is missing in the emulation settings/config in DOSBOX-X? There are stutters(some kind echo problem) in the OPL player sound, 
+but there's NO problem with the original DOSBOX and DOSBOX-Staging, they are working properly.
+
+Original classic DOSBOX 
+
+->> change/modify-settings ->> dosbox-0.74.conf ->>
+
+[sblaster]
+oplmode=opl3
+oplemu=compat
+oplrate=44100
+
+■  Tbsaplay.exe v0.4  %100 WORKING
+
+~ usage: 
+
+tbsaplay.exe 0055_59e.tbs 
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+
 **(1) - DOOFUS gamedata.g-d EXTERNAL ARCHIVE FILE EXTRACTOR+REASSEMBLER(Combiner) --- Doofext3.exe v2.0** 
 
 ■  **Doofext.exe** (%100 Full working version)
@@ -117,38 +150,6 @@ and >>> GB2tga tool will convert your Doofus-GB-image into a TGA(TARGA) Photosho
 with version 1.0 (free download version) only one-way forward operation is possible: GB to TGA(Photoshop)
 _________________________________________________________________________________________________________________________________________________________________________________
 
-
-**(4)** - **STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4**
-
-
-<img width="834" height="472" alt="adlib" src="https://github.com/user-attachments/assets/8b10a6a6-28e4-4239-a2e6-727166615c06" />
-
-
-
-" Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) **ALL soundtrack files included** :-)
-**Player will be available as a standalone for the first time** :-) The original adlib-player engine in the Doofus game operates as a complex mechanism(TSR) 
-Extracting this player from within the game and making it work independently was a really laborious and tiring task.
-
-█ **TBSAplay.exe** v0.4 Tested with **DOSBOX(OK)** , **DOSBox Staging(OK)** , **DOSBOX-X(!)**:There's a timing synchronization problem in DOSBOX-X
-maybe something is missing in the emulation settings/config in DOSBOX-X? There are stutters(some kind echo problem) in the OPL player sound, 
-but there's NO problem with the original DOSBOX and DOSBOX-Staging, they are working properly.
-
-Original classic DOSBOX 
-
-->> change/modify-settings ->> dosbox-0.74.conf ->>
-
-[sblaster]
-oplmode=opl3
-oplemu=compat
-oplrate=44100
-
-■  Tbsaplay.exe v0.4  %100 WORKING
-
-~ usage: 
-
-tbsaplay.exe 0055_59e.tbs 
-
-_________________________________________________________________________________________________________________________________________________________________________________
 
 **(5) - 237UNPAK 1.1a - Doofus _237.dat & _327.dat files Universal Unpacker/Packer (INTERNAL ONLY/PRIVATE) NOT released**
 
