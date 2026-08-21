@@ -24,7 +24,9 @@ ________________________________________________________________________________
 
 ■  **Doofext.exe** (%100 Full working version)
 
-I wanted to contribute to the modification of Doofus game by making some small additions, 
+
+<img width="785" height="372" alt="doofext" src="https://github.com/user-attachments/assets/88a94817-b89b-4074-9913-b2aeecc7edca" />
+
 
 The game's main executable file is compressed/protected with PKLite. 
 After unpacking it, the executable file becomes fully open to reverse engineering, and the real work begins from this point. 
