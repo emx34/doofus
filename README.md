@@ -48,6 +48,9 @@ ________________________________________________________________________________
 
 **(2) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5i UPDATED** 
 
+![Uploading images.png…]()
+
+
 ■  **GBview.exe** (%100 Full working version)
 
 0004_3f2.dat = Company Logo image (Prestige Softwareentwicklung GmbH logo)
