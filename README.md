@@ -48,7 +48,7 @@ ________________________________________________________________________________
 
 **(2) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5i UPDATED** 
 
-![Uploading images.png…]()
+<img width="1114" height="393" alt="images" src="https://github.com/user-attachments/assets/0c100271-8fe5-4acf-a24a-f0274491794c" />
 
 
 ■  **GBview.exe** (%100 Full working version)
