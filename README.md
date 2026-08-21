@@ -18,7 +18,7 @@ The next step will be the in-game graphics and sprites, but that's a really tiri
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-**(1)** - DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) = Unpacker/Packer --- Doofext.exe 
+**(1)** - DOOFUS GAME "gamedata.g-d" EXTERNAL ARCHIVE FILE EXTRACTOR + REASSEMBLER(Combiner) --- Doofext.exe 
 
 ■  **Doofext.exe** (%100 Full working version)
 
@@ -30,7 +30,7 @@ After unpacking it, the executable file becomes fully open to reverse engineerin
 Now, unlike previous reverse engineering attempts, there's no need for a Java-based program. 
 Its using the MS-DOS command-line `doofext.exe`,** 
 all files in the "gamedata.g-d" image data archive can be easily (1) unpacked into the "\GD" folder, and then 
-(2) reassembled(pack) to re-create the "gamedata.g-d" file. 
+(2) reassembled(pack) to re-create the "gamedata.g-d" file. **Unpacker & Packer**
 
 Doofext.exe (Doofus gamedata.g-d asset deployment subsystem) 
 
