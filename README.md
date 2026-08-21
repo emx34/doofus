@@ -70,7 +70,7 @@ ________________________________________________________________________________
 
 INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability 
 
-■  **Gb2tga.exe** v1.0 working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (!?)
+■  **GB2tga.exe** v1.0 working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (!?)
    HOWEVER (!) Doofus image files are NOT plain image files; they contain assembler graphical code snippets in the header, 
    and therefore, translating them from TGA to GB-image to a fully working format is a really difficult and laborious task. 
    Reverse Operation TGA to GB(game-image) NOT working with version 1.0.. only one way
@@ -87,9 +87,9 @@ INTERNAL ONLY - PRIVATE RELEASE v2.0 has bidirectional conversion capability
 ~ usage: 
 <br>
 <br>
-gb2tga.exe 0004_3f2.dat 
+GB2tga.exe 0004_3f2.dat 
 <br><br>
-and >>> GB2TGA tool will convert your Doofus-GB-image into a TGA(TARGA) Photoshop file = "0004_3f2.tga" 
+and >>> GB2tga tool will convert your Doofus-GB-image into a TGA(TARGA) Photoshop file = "0004_3f2.tga" 
 <br>
 with version 1.0 (free download version) only one-way forward operation is possible: GB to TGA(Photoshop)
 _________________________________________________________________________________________________________________________________________________________________________________
