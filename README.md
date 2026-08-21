@@ -80,7 +80,7 @@ gbview.exe 0005_3f2.dat
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-**(3)** DOOFUS GAME GB-IMAGE-FILES(*_3f2.dat) to TGA PHOTOSHOP CONVERTER --- GB2tga.exe v1.0
+**(3) DOOFUS GAME GB-IMAGE-FILES(*_3f2.dat) to TGA Photoshop CONVERTER --- GB2tga.exe v1.0**
 
 
 ■  **GB2tga.exe** v1.0 working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (!?)
