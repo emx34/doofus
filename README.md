@@ -63,14 +63,15 @@ ________________________________________________________________________________
 **Player will be available as a standalone for the first time** :-) The original adlib-player engine in the Doofus game operates as a complex mechanism(TSR) 
 Extracting this player from within the game and making it work independently was a really laborious and tiring task.
 
-█ **TBSAplay.exe** v0.4 Tested with **DOSBOX(OK)** , **DOSBox Staging(OK)** , **DOSBOX-X(!)**:There's a timing synchronization problem in DOSBOX-X
-maybe something is missing in the emulation settings/config in DOSBOX-X? There are stutters(some kind echo problem) in the OPL player sound, 
-but there's NO problem with the original DOSBOX and DOSBOX-Staging, they are working properly. 
-
 In the initial attempts, the sounds and music were distorted and not working properly. 
 There were problems in the early stages of the standalone adlib player project. I tried repeatedly, 
 and timing issues arose when I extracted the adlib player from the game; these have now been resolved.
 **<ins>A great deal of effort and labor was expended exclusively for this job!</ins>**
+
+█ **TBSAplay.exe** v0.4 Tested with **DOSBOX(OK)** , **DOSBox Staging(OK)** , **DOSBOX-X(!)**:There's a timing synchronization problem in DOSBOX-X
+maybe something is missing in the emulation settings/config in DOSBOX-X? There are stutters(some kind echo problem) in the OPL player sound, 
+but there's NO problem with the original DOSBOX and DOSBOX-Staging, they are working properly. 
+
 
 Original classic DOSBOX 
 
