@@ -66,6 +66,8 @@ Extracting this player from within the game and making it work independently was
 █ **TBSAplay.exe** v0.4 Tested with **DOSBOX(OK)** , **DOSBox Staging(OK)** , **DOSBOX-X(!)**:There's a timing synchronization problem in DOSBOX-X
 maybe something is missing in the emulation settings/config in DOSBOX-X? There are stutters(some kind echo problem) in the OPL player sound, 
 but there's NO problem with the original DOSBOX and DOSBOX-Staging, they are working properly. 
+In the initial attempts, the sounds and music were distorted and not working properly. 
+I tried again and again, and when I extracted the adlib player from the game, there were timing problems, which were resolved..
 **<ins>A great deal of effort and labor was expended exclusively for this job!</ins>**
 
 Original classic DOSBOX 
