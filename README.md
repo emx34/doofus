@@ -18,6 +18,8 @@ and seriously focusing on this..
 
 
 
+
+
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
@@ -46,6 +48,8 @@ doofext -x     : eXtracts gamedata.g-d target entities into local \GD\ folder **
 doofext -c     : reCombines(reassembles) \GD\ folder contents dynamically back into archive **(PACK)**
   
 doofext -as    : displays original hardcoded file sizes matrix parameters (file name lister)  *** use this: doofext -as>log.txt
+
+
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
@@ -87,6 +91,8 @@ oplrate=44100
 ~ usage: 
 
 tbsaplay.exe 0055_59e.tbs 
+
+
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
@@ -132,6 +138,8 @@ gbview.exe 0005_3f2.dat
 <img width="749" height="411" alt="gbview" src="https://github.com/user-attachments/assets/1ea6a024-c1f3-41c8-a11e-080b686c9b7e" />
 
 
+
+
 _________________________________________________________________________________________________________________________________________________________________________________
 
 **(3) DOOFUS GB-IMAGE-FILES(*_3f2.dat) to TGA Photoshop CONVERTER --- GB2tga.exe v1.0**
@@ -163,6 +171,10 @@ GB2tga.exe 0004_3f2.dat
 and >>> GB2tga tool will convert your Doofus-GB-image into a TGA(TARGA) Photoshop file = "0004_3f2.tga" 
 
 with version 1.0 (free download version) only one-way forward operation is possible: GB to TGA(Photoshop)
+
+
+
+
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
@@ -191,6 +203,9 @@ I examined the decompressor code within the game and reverse-engineered it to wr
 This tool compresses/packs the game files in parallel with, or even with better compression ratios than, 
 the original Compressor/Packer in the hands of the game's software company's programmers, and in a compatible way.
 Result = Game files compressed with 237UNPAK.exe are decompressed/unpacked by doofus.exe **<ins>without corruption or errors,</ins>** in their original form.***
+
+
+
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
