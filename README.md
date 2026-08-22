@@ -140,7 +140,10 @@ ________________________________________________________________________________
 ■  **GB2tga.exe** v1.0 working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (!?)
    HOWEVER (!) **The reversal process doesn't work properly in this test version (1.0) yet.** Doofus image files are NOT plain image files; they contain assembler graphical code snippets in the header, 
    and therefore, translating them from TGA to GB-image to a fully working format is a really difficult and laborious task. 
-   Reverse Operation TGA to GB(game-image) NOT working with version 1.0.. only one way
+   Reverse Operation TGA to GB(game-image) NOT working with version 1.0.. only one way.
+   Version 1.0 only recycles graphics, and the graphics header must have embedded VGA x86 assembler code. 
+   This process isn't yet present in the code; when Doofus calls and loads the graphics, the game freezes on a black screen and crashes. 
+   (This is a normal occurrence; the process is incomplete, and the game breaks.)
    
    **UPDATE: INTERNAL ONLY - PRIVATE v2.0 version (NOT released) TESTED and the program works perfectly in both directions,**
    **<br> 100% correctly working = GB(gameimage)to TGA & TGA to GB(gameimage)**
