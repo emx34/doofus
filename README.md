@@ -225,4 +225,6 @@ ___ The projects are not finished and it seems like it will take a long time ___
 
 ___ The source codes for the projects is currently **PRIVATE** ___
 
-___ █  Istanbul / Türkiye (2026)
+___ The entire project is my own; working alone, I've only been able to progress this far so far. ___
+
+___ █  Istanbul / Türkiye (2026) 
