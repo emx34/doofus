@@ -168,7 +168,7 @@ This tool **Decompresses/Unpacks** the 0010_237.dat(This file is packaged and lo
 you can modify it, then **Compresses/Packs** it back to its 0riginal state, allowing the game to open and run the file **<ins>without corruption.</ins>**
 ***This ensures the game opens and runs without corrupting the file; otherwise, the game gets stuck on a black screen, crashes, and becomes corrupted.***
 The 0010_237.dat file contains the programmer names and text messages that appear on the demo loop before the start menu.
-Files *_237 and *_327 contain memory operations and VGA x86 program codes, plus some information used in the game.
+Files *_237 and *_327 contain memory operations and VGA x86 program codes, plus some other things used in the game.
 
 <img width="661" height="575" alt="lzss" src="https://github.com/user-attachments/assets/4cc02c12-5675-4144-b038-9c272a59e5da" />
 
