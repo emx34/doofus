@@ -25,7 +25,8 @@ ________________________________________________________________________________
   This will make it possible to edit sprites with Photoshop and then write them back into the game. <br>
   **It's a time-consuming, difficult, and tiring project**
 
-<img width="552" height="361" alt="sprextga" src="https://github.com/user-attachments/assets/1f08e41b-dce9-465d-b876-55b1839a8d3d" />
+<img width="552" height="342" alt="sprextga" src="https://github.com/user-attachments/assets/feef8fa3-c0b3-4c63-a1b6-a43bb8d2fafe" />
+
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
