@@ -171,7 +171,8 @@ ________________________________________________________________________________
    :-) Version 2.0 was completed. Doofus image files are not just plain images; the image file header contains x86 assembly VGA code, and the game uses this code at runtime.
    **v2.0 forward and backward conversion technology is 100% functional and has been tested**
 
-![Uploading gb2tga.png…]()
+
+<img width="1151" height="526" alt="gb2tga" src="https://github.com/user-attachments/assets/001bec19-8d2f-424e-8f8b-bb83b2850104" />
 
 
 
