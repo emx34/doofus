@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 █ UPCOMING RELEASE : <br>
   ___ **Sprextga.exe (Doofus Sprite Extractor & TGA Converter) ! NOT READY YET , NOT WORKING YET..**<br>
-  ___ Sprextga >>> Sprite to TGA & TGA to Sprite Converter <br>
+  ___ Sprextga >>> Sprite to TGA & TGA to Sprite Converter = will make sprites editable with Photoshop <br>
 
 <img width="552" height="361" alt="sprextga" src="https://github.com/user-attachments/assets/1f08e41b-dce9-465d-b876-55b1839a8d3d" />
 
