@@ -19,8 +19,7 @@ and seriously focusing on this..
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-█ UPCOMING RELEASES..
-___ sprextga.exe (Doofus Sprite Extractor & TGA Converter ) ! NOT READY YET ..
+█ UPCOMING RELEASE : ___ sprextga.exe (Doofus Sprite Extractor & TGA Converter ) ! NOT READY YET , NOT WORKING YET ..
 
 <img width="552" height="361" alt="sprextga" src="https://github.com/user-attachments/assets/1f08e41b-dce9-465d-b876-55b1839a8d3d" />
 
