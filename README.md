@@ -56,7 +56,7 @@ ________________________________________________________________________________
 
 
 
-**(4)** - **STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4**
+**(2)** - **STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4**
 
 
 <img width="834" height="472" alt="adlib" src="https://github.com/user-attachments/assets/8b10a6a6-28e4-4239-a2e6-727166615c06" />
@@ -98,7 +98,7 @@ tbsaplay.exe 0055_59e.tbs
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-**(2) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5i UPDATED** 
+**(3) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5i UPDATED** 
 
 
 <img width="1467" height="397" alt="images" src="https://github.com/user-attachments/assets/3796ef6a-d2c6-4ad2-b71b-b7843f5fc1bf" />
@@ -142,7 +142,7 @@ gbview.exe 0005_3f2.dat
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-**(3) DOOFUS GB-IMAGE-FILES(*_3f2.dat) to TGA Photoshop CONVERTER --- GB2tga.exe v1.0**
+**(4) DOOFUS GB-IMAGE-FILES(*_3f2.dat) to TGA Photoshop CONVERTER --- GB2tga.exe v1.0**
 
 
 ■  **GB2tga.exe** v1.0 working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (!?)
