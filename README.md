@@ -17,8 +17,12 @@ and seriously focusing on this..
 <img width="1390" height="1316" alt="doofus4" src="https://github.com/user-attachments/assets/8b2eb4f8-05d1-4c52-8ab3-96fa483f0c7f" />
 
 
+_________________________________________________________________________________________________________________________________________________________________________________
 
+█ UPCOMING RELEASES..
+___ sprextga.exe (Doofus Sprite Extractor & TGA Converter ) ! NOT READY YET ..
 
+<img width="552" height="361" alt="sprextga" src="https://github.com/user-attachments/assets/1f08e41b-dce9-465d-b876-55b1839a8d3d" />
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
