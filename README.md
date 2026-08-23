@@ -178,7 +178,7 @@ with version 1.0 (free download version) only one-way forward operation is possi
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-**(5) - 237UNPAK 1.2 - Doofus _237 / _327.dat files Universal Unpacker/Packer (INTERNAL ONLY/PRIVATE) NOT released**
+**(5) - 237UNPAK 1.2 - Doofus 237/327.dat files Universal Unpacker/Packer (INTERNAL ONLY/PRIVATE) NOT released**
 
 <img width="962" height="465" alt="237unpak" src="https://github.com/user-attachments/assets/0e1ecda6-125d-4ced-ad65-a77d09d8adcb" />
 
