@@ -1,4 +1,4 @@
- ■ **DOOFUS --- MSDOS Platform Game Reverse Engineering + Modification Project (Borland C++ & x86 Assembler)**
+ ■ **DOOFUS --- MSDOS Platform Game - Reverse Engineering + Modification Project (Borland C++ & x86 Assembler)**
 
 Doofus is a high-quality platform game with stunning graphics & beautiful musics .. a masterpiece made for MS-DOS.<br>
 Doofus uses **Adlib music files in TBS format, all the game musics/soundtrack is included in the tbsaplay.zip package**
