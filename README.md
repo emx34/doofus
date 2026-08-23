@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
 █ UPCOMING RELEASE : <br>
   ___ **Sprextga.exe - Doofus Sprite Extractor & TGA (Photoshop TARGA) Converter (!) NOT READY YET , NOT WORKING YET..**<br>
-  ___ Sprextga >>> Sprite to TGA & TGA to Sprite Converter:<br>
+  Sprextga >>> Sprite to TGA & TGA to Sprite Converter:<br>
   This will make it possible to edit sprites with Photoshop and then write them back into the game. <br>
   **It's a time-consuming, difficult, and tiring project**
 
