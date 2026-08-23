@@ -59,7 +59,8 @@ ________________________________________________________________________________
 **(2)** - **STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4**
 
 
-<img width="834" height="472" alt="adlib" src="https://github.com/user-attachments/assets/8b10a6a6-28e4-4239-a2e6-727166615c06" />
+<img width="899" height="548" alt="adlib" src="https://github.com/user-attachments/assets/83161383-c465-45cc-b2d3-a08a6a1b4afe" />
+
 
 
 
