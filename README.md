@@ -165,19 +165,6 @@ ________________________________________________________________________________
    the game freezes on a black screen and crashes because there is no code to process and display those graphics within the game. 
    This is a normal situation; the process is incomplete, and the game breaks!..
    
-   **UPDATE: INTERNAL ONLY - PRIVATE v2.0 version (NOT released) TESTED and the program works perfectly in both directions,**
-   **<br> 100% correctly working = GB(gameimage)to TGA & TGA to GB(gameimage)**
-   With version 2.0, you can take the graphics from the game, modify them with Photoshop, and then put them back in game without any issues, game is working :-)
-   In version 2.0, the x86 asm vga code is added to the beginning of the newly converted graphics, and the graphics data is repackaged and converted back to the original GB-image standard. 
-   :-) Version 2.0 was completed. Doofus image files are not just plain images; the image file header contains x86 assembly VGA code, and the game uses this code at runtime.
-   **v2.0 forward and backward conversion technology is 100% functional and has been tested**
-
-
-<img width="1151" height="526" alt="gb2tga" src="https://github.com/user-attachments/assets/001bec19-8d2f-424e-8f8b-bb83b2850104" />
-
-
-
-
 ~ usage: 
 
 GB2tga.exe 0004_3f2.dat 
@@ -188,7 +175,15 @@ and >>> GB2tga tool will convert your Doofus-GB-image into a TGA(TARGA) Photosho
 with version 1.0 (free download version) only one-way forward operation is possible: GB to TGA(Photoshop)
 
 
+<img width="1151" height="526" alt="gb2tga" src="https://github.com/user-attachments/assets/001bec19-8d2f-424e-8f8b-bb83b2850104" />
 
+
+   **UPDATE: INTERNAL ONLY - PRIVATE v2.0 version (NOT released) TESTED and the program works perfectly in both directions,**
+   **<br> 100% correctly working = GB(gameimage)to TGA & TGA to GB(gameimage)**
+   With version 2.0, you can take the graphics from the game, modify them with Photoshop, and then put them back in game without any issues, game is working :-)
+   In version 2.0, the x86 asm vga code is added to the beginning of the newly converted graphics, and the graphics data is repackaged and converted back to the original GB-image standard. 
+   :-) Version 2.0 was completed. Doofus image files are not just plain images; the image file header contains x86 assembly VGA code, and the game uses this code at runtime.
+   **v2.0 forward and backward conversion technology is 100% functional and has been tested**
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
