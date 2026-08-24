@@ -231,10 +231,10 @@ I'm N0T giving details to <ins>lamers</ins> about Cracking , **professionals don
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-___ The projects are not finished and it seems like it will take a long time ___
+___ The projects are not finished and it seems like it will take a long time
 
-___ The source codes for the projects is currently **PRIVATE** ___
+___ The source codes for the projects is currently **PRIVATE**
 
-___ The entire project is my own; working alone, I've only been able to progress this far so far. ___
+___ The entire project is my own; working alone, I've only been able to progress this far so far.
 
 ___ █  Istanbul / Türkiye (2026) 
