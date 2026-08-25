@@ -16,7 +16,7 @@ and seriously focusing on this..
 ____ █  **GREETINGS to friends and people I know __________________________________________________________** 
 <br>
 <br>
-**The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (PC97 MeMBeRs)** <br>
+**The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (MeMBeRs & #PC97 IRC friends)** <br>
 <br>
 ***EXODUS/c64 , McfISCHER , AKiRA~&~FERiT , BUDU/MURAT , MORGOTH/BLACKWIND , CASPER/CAGTAY ,<br> 
 RASEL , GNOSTiC , BONiTO , FALCON/GOKHAN , PLASTiCMAN/ESCAPE , REMiX/CLIQUE , KriS/CLIQUE ,<br>
