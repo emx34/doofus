@@ -25,7 +25,7 @@ ________________________________________________________________________________
     **(!) NOT READY YET , NOT WORKING YET**<br>
   Sprextga >>> Sprite to TGA & TGA to Sprite Converter:<br>
   This will make it possible to edit sprites with Photoshop and then write them back into the game. <br>
-  **It's a time-consuming, difficult, and tiring project**
+  **Another time-consuming, difficult, and tiring project**
 
 <img width="552" height="342" alt="sprextga" src="https://github.com/user-attachments/assets/74e2acab-98c7-46ae-9150-dde2888c915c" />
 
