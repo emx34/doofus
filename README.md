@@ -12,6 +12,19 @@ Spending hours and days in front of the debugger and examining x86 assembly code
 The next step will be the in-game graphics and sprites, but that's a really tiring job, requiring hours and days of studying and decoding x86 assembly machine language code, developing Borland C++ code, 
 and seriously focusing on this..
 
+<br>
+____ █  **GREETINGS to friends and people I know _________________________________________________** <br>
+<br>
+**The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (PC97 MeMBeRs)** <br>
+<br>
+***EXODUS/c64 , MC-fISCHER , AKiRA~&~FERiT , BUDU/MURAT , MORGOTH/BLACKWIND , CASPER/CAGTAY ,<br> 
+RASEL , GNOSTiC , BONiTO FALCON/GOKHAN , PLASTiCMAN/ESCAPE , REMiX/CLIQUE , KriS/CLIQUE ,<br>
+BLoOdY/CLIQUE , ESQuiRE(Amiga/LEGACY) , CHAO/CAGTAY , DeNiZTaS(StoneBBS) , <br>
+FIShER KiNG(Rocka Rolla BBS) , MURaTGüL & YaRRiX/ALPER , Baris(B.T.G.) aND otHER fRieNDs in Turkiye! <br>
+<br>
+MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
+
+
 
 
 <img width="1424" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/cb682f39-d5f0-4e96-9eb3-2dc102deda3b" />
@@ -240,15 +253,4 @@ ___ The source codes for the projects is currently **PRIVATE**
 ___ The entire project is my own; working alone, I've only been able to progress this far so far.
 
 ___ █  Istanbul / Türkiye (2026) 
-<br><br>
-____ █  **GREETINGS to friends and people I know _________________________________________________** <br>
 <br>
-**The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (PC97 MeMBeRs)** <br>
-<br>
-***EXODUS/c64 , MC-fISCHER , AKiRA~&~FERiT , BUDU/MURAT , MORGOTH/BLACKWIND , CASPER/CAGTAY ,<br> 
-RASEL , GNOSTiC , BONiTO FALCON/GOKHAN , PLASTiCMAN/ESCAPE , REMiX/CLIQUE , KriS/CLIQUE ,<br>
-BLoOdY/CLIQUE , ESQuiRE(Amiga/LEGACY) , CHAO/CAGTAY , DeNiZTaS(StoneBBS) , <br>
-FIShER KiNG(Rocka Rolla BBS) , MURaTGüL & YaRRiX/ALPER , Baris(B.T.G.) aND otHER fRieNDs in Turkiye! <br>
-<br>
-MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
-
