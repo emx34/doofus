@@ -22,7 +22,7 @@ ____ █  **GREETINGS to friends and people I know _____________________________
 RASEL , GNOSTiC , BONiTO , FALCON/GOKHAN , PLASTiCMAN/ESCAPE , REMiX/CLIQUE , KriS/CLIQUE ,<br>
 BLoOdY/CLIQUE , ESQuiRE(Amiga/LEGACY) , CHAO/CAGTAY , DENiZTAS(Stone BBS) , <br>
 FIShER KiNG(Rocka Rolla BBS) , MURaTGüL & YaRRiX/ALPER , Baris(B.T.G.) aND otHER fRieNDs in Turkiye! <br>
-Selamlar ;-) .. CEM-abi/ARMA(PC) , ALP-abi/LACINSOFT(Amiga/Suadiye'90s) ..
+Selamlar ;-) .. CEM-abi/ARMA(PC) , ALP-abi/LACINSOFT(Amiga/Suadiye'90s) ...
 <br>
 <br>
 MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
