@@ -30,7 +30,8 @@ MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , 
 <br>
 <br>
 
-<img width="1424" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/cb682f39-d5f0-4e96-9eb3-2dc102deda3b" />
+<img width="1424" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/d3c23479-d463-4802-b811-313076b5d517" />
+
 
 
 
