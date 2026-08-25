@@ -243,7 +243,7 @@ ___ █  Istanbul / Türkiye (2026)
 
 ____ █  GREETINGS to friends and people I know : <br>
 <br>
-**TKC & ALL PhRoZeNCReW 1997 TEAM - (PC97 MeMBeRs)** <br>
+**The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (PC97 MeMBeRs)** <br>
 <br>
 ***EXODUS , AKiRA , BUdU , RASEL , GNOSTiC , BONiTO , MC-fISCHER , FALCON/GOKHAN , IZzY<br>
 PLASTiCMAN , KriS , BLoOdY , REMiX/CLQ , BiGBoY , DEtAiL/CLQ , ESQuiRE , CHAO/CAGTAY , CASPER/CAGTAY<br>
