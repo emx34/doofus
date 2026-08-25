@@ -225,7 +225,7 @@ ________________________________________________________________________________
 
 **<ins>Memory addresses have been erased (!)</ins>**
 
-I'm N0T giving details to <ins>lamers</ins> about Cracking , **professionals dont need such an explanation anyway ;-)**
+I'm N0T giving details to <ins>lamers</ins> about Cr4ck!ng.. **Professionals dont need such an explanation anyway ;-)**
 
 
 
