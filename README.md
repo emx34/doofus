@@ -13,7 +13,7 @@ The next step will be the in-game graphics and sprites, but that's a really tiri
 and seriously focusing on this..
 
 
-____ █  **GREETINGS to friends and people I know _________________________________________________** 
+____ █  **GREETINGS to friends and people I know __________________________________________________________** 
 <br>
 <br>
 **The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (PC97 MeMBeRs)** <br>
@@ -28,8 +28,8 @@ Selamlar ;-) .. CEM-abi/ARMA(PC) , ALP-abi/LACINSOFT(Amiga/Suadiye'90s) ...
 MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
 <br>
 <br>
-
-
+____________________________________________________________________________________________________________
+<br>
 
 <img width="1424" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/cb682f39-d5f0-4e96-9eb3-2dc102deda3b" />
 
