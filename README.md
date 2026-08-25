@@ -250,5 +250,5 @@ RASEL , GNOSTiC , BONiTO FALCON/GOKHAN , PLASTiCMAN/ESCAPE , REMiX/CLIQUE , KriS
 BLoOdY/CLIQUE , ESQuiRE(Amiga/LEGACY) , CHAO/CAGTAY , DeNiZTaS(StoneBBS) , <br>
 FIShER KiNG(Rocka Rolla BBS) , MURaTGüL & YaRRiX/ALPER , Baris(B.T.G.) aND otHER fRieNDs in Turkiye! <br>
 <br>
-MARQUiS_&_United_Cracking_Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
+MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
 
