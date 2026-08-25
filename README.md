@@ -12,7 +12,6 @@ Spending hours and days in front of the debugger and examining x86 assembly code
 The next step will be the in-game graphics and sprites, but that's a really tiring job, requiring hours and days of studying and decoding x86 assembly machine language code, developing Borland C++ code, 
 and seriously focusing on this..
 
-Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe
 
 
 <img width="1424" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/cb682f39-d5f0-4e96-9eb3-2dc102deda3b" />
@@ -20,7 +19,7 @@ Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe �
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
-
+Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe
 █ UPCOMING RELEASE : <br>
   ___ **Sprextga.exe - Doofus Sprite Extractor & TGA (Photoshop TARGA) Converter**<br> 
     **(!) NOT READY YET , NOT WORKING YET**<br>
