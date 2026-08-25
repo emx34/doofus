@@ -245,7 +245,7 @@ ____ █  **GREETINGS to friends and people I know :** <br>
 <br>
 **The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (PC97 MeMBeRs)** <br>
 <br>
-***EXODUS , MC-fISCHER , AKiRA~&~FERiT , BUDU , MORGOTH/BLACKWIND , CASPER/CAGTAY , RASEL , GNOSTiC , BONiTO <br>
+***EXODUS/MURAT.A.A , MC-fISCHER , AKiRA~&~FERiT , BUDU , MORGOTH/BLACKWIND , CASPER/CAGTAY , RASEL , GNOSTiC , BONiTO <br>
 FALCON/GOKHAN , PLASTiCMAN/ESCAPE , REMiX/CLIQUE , KriS/CLIQUE , BLoOdY/CLIQUE , ESQuiRE(Amiga/LEGACY) , CHAO/CAGTAY <br>
 FIShER KiNG(Rocka Rolla BBS) , DeNiZTaS(StoneBBS) , MURaTGüL & YaRRiX/ALPER , Baris(B.T.G.) aND otHER fRieNDs in Turkiye! <br>
 <br>
