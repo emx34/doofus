@@ -28,7 +28,8 @@ Selamlar ;-) CEM-abi/ARMA(PC) , ALP-abi/LACINSOFT(Amiga/Suadiye'90s) ...
 MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
 <br>
 **____________________________________________________________________________________________________________**
-
+<br>
+<br>
 
 <img width="1424" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/cb682f39-d5f0-4e96-9eb3-2dc102deda3b" />
 
