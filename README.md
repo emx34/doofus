@@ -245,8 +245,8 @@ ____ █  **GREETINGS to friends and people I know :** <br>
 <br>
 **The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (PC97 MeMBeRs)** <br>
 <br>
-***EXODUS , AKiRA , BUdU , MORGOTH/BLACKWIND , RASEL , GNOSTiC , BONiTO , MC-fISCHER , FALCON/GOKHAN <br>
-PLASTiCMAN , KriS , BLoOdY , REMiX/CLQ , DEtAiL/CLQ , ESQuiRE(ERDEM) , CHAO/CAGTAY , CASPER/CAGTAY <br>
+***EXODUS , MC-fISCHER , AKiRA , BUDU , MORGOTH/BLACKWIND , CASPER/CAGTAY , RASEL , GNOSTiC , BONiTO , FALCON/GOKHAN <br>
+PLASTiCMAN , REMiX/CLIQUE , KriS/CLIQUE , BLoOdY/CLIQUE , DEtAiL/CLIQUE , ESQuiRE(Amiga) , CHAO/CAGTAY <br>
 FIShER KiNG(Rocka Rolla BBS) , DEnizTas(StoneBBS) , MURaTGUL & YaRRiX/ALPER , Baris(B.T.G.) aND otHER fRieNDs in Turkiye! <br>
 <br>
 MARQUiS_&_United_Cracking_Froce (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
