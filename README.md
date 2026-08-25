@@ -19,7 +19,7 @@ ____ █  **GREETINGS to friends and people I know _____________________________
 **The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (MeMBeRs & #PC97 IRC friends)** <br>
 <br>
 ***EXODUS/c64 , McfISCHER , AKiRA~&~FERiT , BUDU/MURAT , MORGOTH/BLACKWIND , CASPER/CAGTAY ,<br> 
-RASEL , GNOSTiC , BONiTO , FALCON/GOKHAN , PLASTiCMAN/ESCAPE , REMiX/CLIQUE , KriS/CLIQUE ,<br>
+RASEL , GNOSTiC , FALCON/GOKHAN , PLASTiCMAN/ESCAPE , REMiX/CLIQUE , KriS/CLIQUE ,<br>
 BLoOdY/CLIQUE , ESQuiRE(Amiga/LEGACY) , CHAO/CAGTAY , DENiZTAS(Stone BBS) , <br>
 FIShER KiNG(Rocka Rolla BBS) , MURaTGüL & YaRRiX/ALPER , Baris(B.T.G.) aND otHER fRieNDs in Turkiye! <br>
 Selamlar ;-) CEM-abi/ARMA(PC) , ALP-abi/LACINSOFT(Amiga/Suadiye'90s)<br>
