@@ -19,7 +19,8 @@ and seriously focusing on this..
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
-Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe
+Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe <br>
+<br>
 █ UPCOMING RELEASE : <br>
   ___ **Sprextga.exe - Doofus Sprite Extractor & TGA (Photoshop TARGA) Converter**<br> 
     **(!) NOT READY YET , NOT WORKING YET**<br>
