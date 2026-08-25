@@ -15,7 +15,8 @@ and seriously focusing on this..
 Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe
 
 
-<img width="1390" height="1316" alt="doofus4" src="https://github.com/user-attachments/assets/8b2eb4f8-05d1-4c52-8ab3-96fa483f0c7f" />
+<img width="1424" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/cb682f39-d5f0-4e96-9eb3-2dc102deda3b" />
+
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
