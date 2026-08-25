@@ -249,5 +249,5 @@ ____ █  **GREETINGS to friends and people I know :** <br>
 FALCON/GOKHAN , PLASTiCMAN , REMiX/CLIQUE , KriS/CLIQUE , BLoOdY/CLIQUE , DEtAiL/CLIQUE , ESQuiRE(Amiga) , CHAO/CAGTAY <br>
 FIShER KiNG(Rocka Rolla BBS) , DeNiZTaS(StoneBBS) , MURaTGUL & YaRRiX/ALPER , Baris(B.T.G.) aND otHER fRieNDs in Turkiye! <br>
 <br>
-MARQUiS_&_United_Cracking_Froce (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
+MARQUiS_&_United_Cracking_Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
 
