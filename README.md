@@ -24,7 +24,6 @@ BLoOdY/CLIQUE , ESQuiRE(Amiga/LEGACY) , CHAO/CAGTAY , DENiZTAS(Stone BBS) , <br>
 FIShER KiNG(Rocka Rolla BBS) , MURaTGüL & YaRRiX/ALPER , Baris(B.T.G.) aND otHER fRieNDs in Turkiye! <br>
 Selamlar ;-) CEM-abi/ARMA(PC) , ALP-abi/LACINSOFT(Amiga/Suadiye'90s) ...
 <br>
-<br>
 MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
 <br>
 **____________________________________________________________________________________________________________**
