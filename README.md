@@ -240,3 +240,9 @@ ___ The source codes for the projects is currently **PRIVATE**
 ___ The entire project is my own; working alone, I've only been able to progress this far so far.
 
 ___ █  Istanbul / Türkiye (2026) 
+
+**____ █  GREETINGS to friends and people I know : **<br>
+***EXODUS , AKiRA , BUdU , RASEL , GNOSTiC , BONiTO , MC-fISCHER , FALCON/GOKHAN , IZzY<br>
+PLASTiCMAN , KriS , BLoOdY , REMiX/CLQ , BiGBoY , DEtAiL/CLQ , ESQuiRE , CHAO/CAGTAY , CASPER/CAGTAY<br>
+fIShER KiNG , MORGOTH/BLACKWIND , MURaTGUL & YaRRiX/ALPER , B.T.G. aND otHER fRieNDs in TR.!<br>
+MARQUiS , rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG , CoGAN --- ROSE/Hackstop :-)***
