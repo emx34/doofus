@@ -12,8 +12,9 @@ Spending hours and days in front of the debugger and examining x86 assembly code
 The next step will be the in-game graphics and sprites, but that's a really tiring job, requiring hours and days of studying and decoding x86 assembly machine language code, developing Borland C++ code, 
 and seriously focusing on this..
 
+
+____ █  **GREETINGS to friends and people I know _________________________________________________** 
 <br>
-____ █  **GREETINGS to friends and people I know _________________________________________________** <br>
 <br>
 **The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (PC97 MeMBeRs)** <br>
 <br>
@@ -23,7 +24,8 @@ BLoOdY/CLIQUE , ESQuiRE(Amiga/LEGACY) , CHAO/CAGTAY , DeNiZTaS(StoneBBS) , <br>
 FIShER KiNG(Rocka Rolla BBS) , MURaTGüL & YaRRiX/ALPER , Baris(B.T.G.) aND otHER fRieNDs in Turkiye! <br>
 <br>
 MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
-
+<br>
+<br>
 
 
 
