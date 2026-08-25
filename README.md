@@ -248,4 +248,5 @@ ____ █  **GREETINGS to friends and people I know :** <br>
 ***EXODUS , AKiRA , BUdU , RASEL , GNOSTiC , BONiTO , MC-fISCHER , FALCON/GOKHAN , IZzY<br>
 PLASTiCMAN , KriS , BLoOdY , REMiX/CLQ , BiGBoY , DEtAiL/CLQ , ESQuiRE , CHAO/CAGTAY , CASPER/CAGTAY<br>
 fIShER KiNG , MORGOTH/BLACKWIND , MURaTGUL & YaRRiX/ALPER , B.T.G. aND otHER fRieNDs in TR.!<br>
-MARQUiS , rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG , CoGAN --- ROSE/Hackstop :-)***
+MARQUiS_&_United_Cracking_Froce (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG , CoGAN*** 
+*** ROSE/Hackstop :-)***
