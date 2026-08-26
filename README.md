@@ -13,7 +13,7 @@ The next step will be the in-game graphics and sprites, but that's a really tiri
 and seriously focusing on this..
 
 
-____ █  **GREETINGS to friends and people I knew in the past__________________________________________________________** 
+____ █  **GREETINGS to friends and people I knew in the past __________________________________________________________** 
 <br>
 <br>
 **The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (MeMBeRs & #PC97 IRC friends)** <br>
