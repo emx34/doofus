@@ -27,7 +27,7 @@ Selamlar ;-) CEM-abi/ARMA(PC) , ALP-abi/LACINSOFT(Amiga/Suadiye'90s)<br>
 MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
 <br>
 <br>
-**■ There's n0 music playing in the background right now :-) but imagine there is >>> Laxity - The_Alibi.SiD (c64) ■**
+<marquee>**■ There's n0 music playing in the background right now :-) but imagine there is >>> Laxity - The_Alibi.SiD (c64) ■**</marquee>
 **__________________________________________________________________________________________________________________________**
 <br>
 <br>
