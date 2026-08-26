@@ -18,7 +18,7 @@ ____ █  **GREETINGS to friends and people I knew in the past _________________
 <br>
 **The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (MeMBeRs & #PC97 IRC friends)** <br>
 <br>
-***EXODUS/c64 , McfISCHER , AKiRA~&~FERiT , BUDU/MURAT , MORGOTH/BLACKWIND , CASPER/CAGTAY ,<br> 
+***EXODUS/c64 , McfISCHER , AKiRA~&~FERiT , BUDU/MURAT , 2K/MORGOTH/BLACKWIND , CASPER/CAGTAY ,<br> 
 RASEL , GNOSTiC , FALCON/GOKHAN , PLASTiCMAN/ESCAPE , REMiX/CLIQUE , KriS/CLIQUE ,<br>
 BLoOdY/CLIQUE , ESQuiRE(Amiga/LEGACY) , CHAO/CAGTAY , DENiZTAS(Stone BBS) , <br>
 FIShER KiNG(Rocka Rolla BBS) , MURaTGüL & YaRRiX/ALPER , Baris(B.T.G.) aND otHER fRieNDs in Turkiye! <br>
