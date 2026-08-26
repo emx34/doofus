@@ -30,7 +30,7 @@ MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , 
 **■ There's n0 music playing in the background right now :-) but imagine there is >>> Laxity - The_Alibi.SiD (c64) ■**<br>
 The_Alibi.SiD (c64) = (https://www.youtube.com/watch?v=HnfuiYOF9jQ)
 <br><br>
-***ROSE/Ralph: HS 1.30 was cracked by me :-) but your program was a Légend & still Légend***
+***ROSE/Ralph: HS 1.30 was cracked by me :-) but your program was a Légend & still Légend !***
 **__________________________________________________________________________________________________________________________**
 <br>
 <br>
