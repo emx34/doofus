@@ -34,7 +34,8 @@ MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , 
 The_Alibi.SiD (c64) = (https://www.youtube.com/watch?v=HnfuiYOF9jQ)
 <br><br>
 ***ROSE/Ralph: HS 1.30 was cracked by me :-) but your program was a Légend & still Légend !***
-**__________________________________________________________________________________________________________________________**
+<br>
+<br>
 _________________________________________________________________________________________________________________________________________________________________________________
 Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe <br>
 <br>
