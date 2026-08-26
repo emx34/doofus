@@ -129,7 +129,7 @@ tbsaplay.exe 0055_59e.tbs
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-**(3) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5i** 
+**(3) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5k UPDATED** 
 
 
 <img width="1467" height="397" alt="images" src="https://github.com/user-attachments/assets/3796ef6a-d2c6-4ad2-b71b-b7843f5fc1bf" />
@@ -140,7 +140,7 @@ ________________________________________________________________________________
 
 0004_3f2.dat = Company Logo image (Prestige Softwareentwicklung GmbH logo)
 
-0005_3f2.dat = Game Logo image ->>> This file contains 2 images(logo + dog head) & C0de update required 
+0005_3f2.dat = Game Logo image (logo + dog head) c0de updated 1.5k
 
 0006_3f2.dat = Doofus boy dog monkey elephant image
 
