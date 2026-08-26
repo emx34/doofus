@@ -41,7 +41,7 @@ Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe �
 <br>
 █ UPCOMING RELEASE : <br>
   ___ **Sprextga.exe - Doofus Sprite Extractor & TGA (Photoshop TARGA) Converter**<br> 
-    **(!) NOT READY YET , NOT WORKING YET**<br>
+    **(!) NOT READY YET , NOT WORKING YET , NOT RELEASED YET**<br>
   Sprextga >>> Sprite to TGA & TGA to Sprite Converter:<br>
   This will make it possible to edit sprites with Photoshop and then write them back into the game. <br>
   **Another time-consuming, difficult, and tiring project**
