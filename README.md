@@ -1,3 +1,6 @@
+<br>
+<img width="1424" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/d3c23479-d463-4802-b811-313076b5d517" />
+
  ■ **DOOFUS --- MSDOS Platform Game - Reverse Engineering Project (Borland C++ & x86 Assembler)**
 
 Doofus is a high-quality platform game with stunning graphics & beautiful musics .. a masterpiece made for MS-DOS.<br>
@@ -32,14 +35,6 @@ The_Alibi.SiD (c64) = (https://www.youtube.com/watch?v=HnfuiYOF9jQ)
 <br><br>
 ***ROSE/Ralph: HS 1.30 was cracked by me :-) but your program was a Légend & still Légend !***
 **__________________________________________________________________________________________________________________________**
-<br>
-<br>
-
-<img width="1424" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/d3c23479-d463-4802-b811-313076b5d517" />
-
-
-
-
 _________________________________________________________________________________________________________________________________________________________________________________
 Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe <br>
 <br>
