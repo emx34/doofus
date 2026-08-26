@@ -140,7 +140,7 @@ ________________________________________________________________________________
 
 0004_3f2.dat = Company Logo image (Prestige Softwareentwicklung GmbH logo)
 
-0005_3f2.dat = Game Logo image (Game logo) ->>> This file contains 2-images(logo+dog) & C0de update required 
+0005_3f2.dat = Game Logo image ->>> This file contains 2 images(logo + dog head) & C0de update required 
 
 0006_3f2.dat = Doofus boy dog monkey elephant image
 
