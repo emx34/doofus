@@ -1,6 +1,6 @@
 <br>
 <img width="1424" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/d3c23479-d463-4802-b811-313076b5d517" />
-<br>
+<br><br>
  ■ **DOOFUS --- MSDOS Platform Game - Reverse Engineering Project (Borland C++ & x86 Assembler)**
 
 Doofus is a high-quality platform game with stunning graphics & beautiful musics .. a masterpiece made for MS-DOS.<br>
