@@ -129,7 +129,7 @@ tbsaplay.exe 0055_59e.tbs
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-**(3) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5i UPDATED** 
+**(3) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER --- GBview.exe 1.5i** 
 
 
 <img width="1467" height="397" alt="images" src="https://github.com/user-attachments/assets/3796ef6a-d2c6-4ad2-b71b-b7843f5fc1bf" />
