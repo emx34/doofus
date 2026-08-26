@@ -140,7 +140,7 @@ ________________________________________________________________________________
 
 0004_3f2.dat = Company Logo image (Prestige Softwareentwicklung GmbH logo)
 
-0005_3f2.dat = Game Logo image (logo + dog head) c0de updated 1.5k
+0005_3f2.dat = Game Logo image (logo + dog head) DUAL-image / SourceCode updated 1.5k
 
 0006_3f2.dat = Doofus boy dog monkey elephant image
 
