@@ -205,10 +205,7 @@ with version 1.1 (download version) only one-way forward operation is possible: 
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-**(5) - 237UNPAK 1.2 v6a - Doofus 237/327.dat files Universal Unpacker/Packer (v1.2 INTERNAL ONLY/PRIVATE) NOT released**
-<br>
-<br>
-<ins>Version 1.0 (Unpack/DeCompress ONLY) will be released soon and will be available for DOWNLOAD</ins>
+**(5) - 237UNPAK 1.0 - Doofus 237/327.dat files Universal Unpacker (1.2 v6a INTERNAL ONLY/PRIVATE PACKER version)**
 <br>
 <br>
 
@@ -218,6 +215,9 @@ ________________________________________________________________________________
 
 ■ **237unpak.exe** : Specially designed LZSS Decompression + Compression engine, capable of processing >>> *_237.dat  &  *._327.dat files.
 
+**<ins>v1.0 In version 1.0, only the UNPACK/Decompressor feature works</ins>**
+<br>
+<br>
 This tool **Decompresses/Unpacks** the 0010_237.dat(This file is packaged and located inside the gamedata.g-d archive.)and all *.237/327 files.. 
 you can modify it, then **Compresses/Packs** it back to its 0riginal state, allowing the game to open and run the file **<ins>without corruption.</ins>**
 ***This ensures the game opens and runs without corrupting the file; otherwise, the game gets stuck on a black screen, crashes, and becomes corrupted.***
