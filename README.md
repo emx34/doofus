@@ -36,7 +36,7 @@ X-FACTOR SiD DRAX (c64) = https://www.youtube.com/watch?v=inzU_KiYL7Q
 _________________________________________________________________________________________________________________________________________________________________________________
 Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe <br>
 <br>
-█ UPCOMING RELEASE : <br>
+█ ***UPCOMING RELEASE :*** <br>
   ___ **Sprextga.exe - Doofus Sprite Extractor & TGA (Photoshop TARGA) Converter**<br> 
     **(!) NOT READY YET , NOT WORKING YET , NOT RELEASED YET**<br>
   Sprextga >>> Sprite to TGA & TGA to Sprite Converter:<br>
