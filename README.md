@@ -189,7 +189,8 @@ and >>> GB2tga tool will convert your Doofus-GB-image into a TGA(TARGA) Photosho
 
 with version 1.1 (free download version) only one-way forward operation is possible: GB to TGA(Photoshop)
 
-<img width="1194" height="526" alt="gb2tga" src="https://github.com/user-attachments/assets/2cb3fb95-51f8-4d56-beb2-14d201913d66" />
+<img width="1225" height="526" alt="gb2tga" src="https://github.com/user-attachments/assets/f890abef-0a9b-4d42-9e9b-593d7e8afe07" />
+
 
 
 
