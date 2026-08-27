@@ -172,7 +172,7 @@ gbview.exe 0005_3f2.dat
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-**(4) DOOFUS GB-IMAGE-FILES(*_3f2.dat) to TGA Photoshop CONVERTER --- GB2tga.exe v1.1 --- (v2.0 INTERNAL ONLY + PRIVATE, NOT Released)**
+**(4) DOOFUS GB-IMAGE-FILES(*_3f2.dat) to TGA Photoshop CONVERTER --- GB2tga.exe v1.1 --- (v2.0 INTERNAL ONLY + PRIVATE)**
 
 
 ■  **GB2tga.exe** v1.0 working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (v2.0)
@@ -193,7 +193,7 @@ with version 1.1 (free download version) only one-way forward operation is possi
 
 
 
-   **UPDATE: INTERNAL ONLY - PRIVATE v2.0 version (NOT released) TESTED and the program works perfectly in both directions, 100% correctly working = GB(gameimage)to TGA & TGA to GB(gameimage)**
+   **UPDATE: v2.0 Version INTERNAL ONLY - PRIVATE (NOT released) TESTED and the program works perfectly in both directions, 100% correctly working = GB(gameimage)to TGA & TGA to GB(gameimage)**
    **With version 2.0**, you can take the graphics from the game, modify them with Photoshop, and then put them back in game without any issues, game is working :-)
    In version 2.0, the x86 asm vga code is added to the beginning of the newly converted graphics, and the graphics data is repackaged and converted back to the original GB-image standard. 
    :-) Version 2.0 was completed. Doofus image files are not just plain images; the image file header contains x86 assembly VGA code, and the game uses this code at runtime.
