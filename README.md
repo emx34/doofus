@@ -189,8 +189,8 @@ and >>> GB2tga tool will convert your Doofus-GB-image into a TGA(TARGA) Photosho
 
 with version 1.1 (free download version) only one-way forward operation is possible: GB to TGA(Photoshop)
 
+<img width="1194" height="526" alt="gb2tga" src="https://github.com/user-attachments/assets/2cb3fb95-51f8-4d56-beb2-14d201913d66" />
 
-<img width="1151" height="526" alt="gb2tga" src="https://github.com/user-attachments/assets/001bec19-8d2f-424e-8f8b-bb83b2850104" />
 
 
    **UPDATE: INTERNAL ONLY - PRIVATE v2.0 version (NOT released) TESTED and the program works perfectly in both directions, 100% correctly working = GB(gameimage)to TGA & TGA to GB(gameimage)**
