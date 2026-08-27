@@ -30,8 +30,8 @@ Selamlar ;-) CEM ağabey/ARMA(PC) , ALP ağabey/LACINSOFT(Amiga/Suadiye'90s)<br>
 MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
 <br>
 **■ There's n0 music playing in the background right now :-) but imagine there is -> The_Alibi.SiD & X-FACTOR.SiD**<br>
-The Alibi SiD LAXITY (c64) = https://www.youtube.com/watch?v=HnfuiYOF9jQ<br>
 X-FACTOR SiD DRAX (c64) = https://www.youtube.com/watch?v=inzU_KiYL7Q
+The Alibi SiD LAXITY (c64) = https://www.youtube.com/watch?v=HnfuiYOF9jQ<br>
 <br>
 For some motivation, here's some music = Bomfunk MCs - Freestyler (Dirty Version - Radio Edit)
 <br><br>
