@@ -205,7 +205,7 @@ with version 1.1 (download version) only one-way forward operation is possible: 
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-**(5) - 237UNPAK 1.0 - Doofus 237/327.dat files Universal Unpacker - (1.2 v6a INTERNAL ONLY/PRIVATE - PACKER Compressor version)**
+**(5) - 237UNPAK 1.0 - Doofus 237/327.dat files Universal Unpacker - (1.2 v6a INTERNAL ONLY/PRIVATE PACKER/Compressor)**
 <br>
 <br>
 
