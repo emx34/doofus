@@ -215,9 +215,9 @@ ________________________________________________________________________________
 
 ■ **237unpak.exe** : Specially designed LZSS Decompression + Compression engine, capable of processing >>> *_237.dat  &  *._327.dat files.
 
-**<ins>v1.0 In version 1.0, only the UNPACK/Decompressor feature works</ins>**
 <br>
 <br>
+**<ins>In version 1.0, only the UNPACK/Decompressor feature works ■ The advanced PACKER/Compressor feature is only available in version 1.2</ins>**
 This tool **Decompresses/Unpacks** the 0010_237.dat(This file is packaged and located inside the gamedata.g-d archive.)and all *.237/327 files.. 
 you can modify it, then **Compresses/Packs** it back to its 0riginal state, allowing the game to open and run the file **<ins>without corruption.</ins>**
 ***This ensures the game opens and runs without corrupting the file; otherwise, the game gets stuck on a black screen, crashes, and becomes corrupted.***
