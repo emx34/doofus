@@ -175,7 +175,7 @@ ________________________________________________________________________________
 **(4) DOOFUS GB-IMAGE-FILES(*_3f2.dat) to TGA Photoshop CONVERTER --- GB2tga.exe v1.1**
 
 
-■  **GB2tga.exe** v1.1 working version tested with one direction GB-Image to TGA(TARGA)PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (v2.0)
+■  **GB2tga.exe** v1.1 working version tested with one direction GB-Image to TGA(TARGA) PHOTOSHOP. This tool can also convert TGA image file to GB-image BACK (v2.0)
    Doofus image files are NOT plain image files; they contain assembler graphical code snippets in the header, 
    and therefore, translating them from TGA to GB-image to a fully working format is a really difficult and laborious task. 
    Reverse Operation TGA to GB(game-image) NOT working with version 1.1.. only one way.
@@ -187,7 +187,7 @@ GB2tga.exe 0004_3f2.dat
 
 and >>> GB2tga tool will convert your Doofus-GB-image into a TGA(TARGA) Photoshop file = "0004_3f2.tga" 
 
-with version 1.1 (free download version) only one-way forward operation is possible: GB to TGA(Photoshop)
+with version 1.1 (free download version) only one-way forward operation is possible: GB to TGA (Photoshop)
 
 <img width="1225" height="526" alt="gb2tga" src="https://github.com/user-attachments/assets/f890abef-0a9b-4d42-9e9b-593d7e8afe07" />
 
