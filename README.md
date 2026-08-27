@@ -43,7 +43,7 @@ Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe �
   This will make it possible to edit sprites with Photoshop and then write them back into the game. <br>
   **Another time-consuming, difficult, and tiring project**
 
-<img width="552" height="311" alt="sprextga" src="https://github.com/user-attachments/assets/663c254f-1521-44aa-9700-1047118a4d3a" />
+<img width="849" height="674" alt="sprextga_2" src="https://github.com/user-attachments/assets/4004eaee-cecc-4d0c-bcca-34c0a5ad7255" />
 
 
 
