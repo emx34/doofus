@@ -206,6 +206,9 @@ ________________________________________________________________________________
 
 
 **(5) - 237UNPAK 1.2 v6a - Doofus 237/327.dat files Universal Unpacker/Packer (INTERNAL ONLY/PRIVATE) NOT released**
+<br>
+<ins>Version 1.0 Unpack ONLY will be released soon and will be available for download.</ins>
+<br>
 
 <img width="962" height="465" alt="237unpak" src="https://github.com/user-attachments/assets/0e1ecda6-125d-4ced-ad65-a77d09d8adcb" />
 
