@@ -209,7 +209,7 @@ ________________________________________________________________________________
 
 
 **(5) - 237UNPAK 1.0 DOOFUS 237/327.dat files Universal UNPACKER** 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(v1.2 v6a INTERNAL ONLY/PRIVATE PACKER/Compressor)**
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(v1.2 v6a INTERNAL ONLY/PRIVATE PACKER/Compressor)**
 <br>
 <br>
 
