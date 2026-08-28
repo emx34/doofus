@@ -121,7 +121,7 @@ Original classic DOSBOX
 oplmode=opl3 <br>
 oplemu=compat <br>
 oplrate=44100 <br>
-***CPU cycle speed should be at the default normal speed (!)***
+***CPU cycle speed should be at the default normal speed (!) otherwise, an echo problem occurs in the sound***
 <br><br>
 ■  Tbsaplay.exe v0.4  %100 WORKING
 <br><br>
