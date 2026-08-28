@@ -108,7 +108,7 @@ and timing issues arose when I extracted the adlib player from the game; these h
 **<ins>A great deal of effort and labor was expended exclusively for this job!</ins>**
 
 █ **TBSAplay.exe** v0.4 <br><br>
-Tested with **■ DOSBOX(OK)** , **■ DOSBox Staging(OK)** , **■ DOSBOX-X(OK)** <br>
+Tested with **■ DOSBOX (OK) %100 working** , **■ DOSBox Staging (OK) %100 working** , **■ DOSBOX-X (OK) %100 working** <br>
 <br>The problem in DOSBOX-X has been solved... The player is working 100%, I had increased the CPU cycle speed by 4x <br>
 (to speed up exe compilation processes), so adlib-player was having a timing problem :-) The issue is resolved. <br>
 The player works flawlessly in all DOS emulators. 
