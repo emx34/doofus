@@ -111,10 +111,8 @@ and timing issues arose when I extracted the adlib player from the game; these h
 Tested with **■ DOSBOX(OK)** , **■ DOSBox Staging(OK)** , **■ DOSBOX-X(OK)** <br>
 <br>The problem in DOSBOX-X has been solved... The player is working 100%, I had increased the CPU cycle speed by 4x <br>
 (to speed up exe compilation processes), so adlib-player was having a timing problem :-) The issue is resolved. <br>
-The player works flawlessly in all DOS emulators. <br><br>
-
-
-
+The player works flawlessly in all DOS emulators. 
+<br><br>
 Original classic DOSBOX 
 
 ->> change/modify-settings ->> dosbox-0.74.conf ->>
