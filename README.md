@@ -114,18 +114,19 @@ And I forgot about this CPU-Cycle speed setting , I realized it too late...(to s
 so adlib-player was having a timing problem :-) The issue is resolved. The player works flawlessly in all DOS emulators. 
 <br><br>
 Original classic DOSBOX 
-
+<br><br>
 ->> change/modify-settings ->> dosbox-0.74.conf ->>
-
-[sblaster]
-oplmode=opl3
-oplemu=compat
-oplrate=44100
-
+<br><br>
+[sblaster] <br>
+oplmode=opl3 <br>
+oplemu=compat <br>
+oplrate=44100 <br>
+***CPU cycle speed should be at the default normal speed (!)***
+<br><br>
 ■  Tbsaplay.exe v0.4  %100 WORKING
-
+<br><br>
 ~ usage: 
-
+<br><br>
 tbsaplay.exe 0055_59e.tbs 
 
 
