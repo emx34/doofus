@@ -115,7 +115,7 @@ so adlib-player was having a timing problem :-) The issue is resolved. The playe
 <br><br>
 Original classic DOSBOX 
 <br><br>
-->> change/modify-settings ->> dosbox-0.74.conf ->>
+->> change/modify-settings ->> dosbox-0.74.conf ->> 
 <br><br>
 [sblaster] <br>
 oplmode=opl3 <br>
