@@ -40,6 +40,7 @@ For some motivation, here's some music = Bomfunk MCs - Freestyler (Dirty Version
 <br><br><br>
 _________________________________________________________________________________________________________________________________________________________________________________
 Ongoing projects >>> ■ Sprextga.exe ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe
+<br> Writing six custom programs for Doofus was really tiring.. there might not be any updates or new features for a while, I need to rest.
 _________________________________________________________________________________________________________________________________________________________________________________
 <br><br>
 ■ **Sprextga.exe --- Sprextga v1.0a First (alpha) test version**
