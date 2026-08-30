@@ -50,6 +50,8 @@ ________________________________________________________________________________
   <br><br>
   █ The game's original executable file is compressed using PKLite, and this format is supported (automatic unpacker feature).<br>
     The original exe file, compressed with pkLite, is included in the sprextga.zip package.
+ <br><br>
+   --► Thanks to BUDU/Murat for their significant support to the sprextga program
   
 
 <img width="578" height="600" alt="sprextga3" src="https://github.com/user-attachments/assets/c81272f6-3520-4187-ac80-b17eb5eda76d" />
