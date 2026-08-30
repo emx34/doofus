@@ -41,7 +41,7 @@ For some motivation, here's some music = Bomfunk MCs - Freestyler (Dirty Version
 <br>
 <br>
 _________________________________________________________________________________________________________________________________________________________________________________
-Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe ■ Sprextga.exe
+Currently ongoing projects >>> ■ Sprextga.exe ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe
 _________________________________________________________________________________________________________________________________________________________________________________
 <br>
 <br>
