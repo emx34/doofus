@@ -47,8 +47,9 @@ Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe �
 ***Doofus Sprite Extractor & TGA (Photoshop TARGA) * Sprite <---> TGA <---> Sprite converter***
 <br><br> 
   Sprextga >>> Sprite to TGA & TGA to Sprite Converter:<br>
-  This will make it possible to edit sprites with Photoshop and then write them back into the game. <br>
-
+  This will make it possible to edit sprites with Photoshop and then write them back into the game. 
+  <br><br>
+  █ The game's original executable file is compressed using PKLite, and this format is supported (automatic unpacker feature).
 
 <img width="578" height="600" alt="sprextga3" src="https://github.com/user-attachments/assets/c81272f6-3520-4187-ac80-b17eb5eda76d" />
 
