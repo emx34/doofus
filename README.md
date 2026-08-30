@@ -42,7 +42,7 @@ ________________________________________________________________________________
 Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe
 <br>
 <br>
-■ **Sprextga.exe (Full Working version) --- Sprextga v1.0a first test version**
+■ **Sprextga.exe (Full Working version) --- Sprextga v1.0a first (alpha) test version**
 <br><br>
 ***Doofus Sprite Extractor & TGA (Photoshop TARGA) * Sprite <---> TGA <---> Sprite converter***
 <br><br> 
