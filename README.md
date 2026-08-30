@@ -41,7 +41,7 @@ For some motivation, here's some music = Bomfunk MCs - Freestyler (Dirty Version
 _________________________________________________________________________________________________________________________________________________________________________________
 Ongoing projects >>> ■ Sprextga.exe ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe
 _________________________________________________________________________________________________________________________________________________________________________________
-<br><br><br>
+<br><br>
 ■ **Sprextga.exe --- Sprextga v1.0a first (alpha) test version**
 <br><br>
 ***Doofus Sprite Extractor & TGA (Photoshop TARGA) * Sprite <---> TGA <---> Sprite converter***
