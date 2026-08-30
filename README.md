@@ -39,7 +39,7 @@ The Alibi SiD LAXITY (c64) = https://www.youtube.com/watch?v=HnfuiYOF9jQ<br>
 For some motivation, here's some music = Bomfunk MCs - Freestyler (Dirty Version - Radio Edit)
 <br><br><br>
 _________________________________________________________________________________________________________________________________________________________________________________
-Currently ongoing projects >>> ■ Sprextga.exe ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe
+Ongoing projects >>> ■ Sprextga.exe ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe
 _________________________________________________________________________________________________________________________________________________________________________________
 <br><br><br>
 ■ **Sprextga.exe (Full Working version) --- Sprextga v1.0a first (alpha) test version**
