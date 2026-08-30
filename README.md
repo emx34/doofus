@@ -41,14 +41,16 @@ For some motivation, here's some music = Bomfunk MCs - Freestyler (Dirty Version
 _________________________________________________________________________________________________________________________________________________________________________________
 Currently ongoing projects >>> ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe <br>
 <br>
-█ ***UPCOMING RELEASE :*** <br>
-  ___ **Sprextga.exe - Doofus Sprite Extractor & TGA (Photoshop TARGA) Converter**<br> 
-    **(!) NOT READY YET , NOT WORKING YET , NOT RELEASED YET**<br>
+■ Sprextga.exe (Full Working version) --- Sprextga v1.0a first test version
+<br>
+***Doofus Sprite Extractor & TGA (Photoshop TARGA) * Sprite <---> TGA <---> Sprite converter***
+<br> 
   Sprextga >>> Sprite to TGA & TGA to Sprite Converter:<br>
   This will make it possible to edit sprites with Photoshop and then write them back into the game. <br>
-  **Another time-consuming, difficult, and tiring project**
 
-<img width="849" height="674" alt="sprextga_2" src="https://github.com/user-attachments/assets/eda00717-aadf-4e5d-b50f-73bdcaf43f36" />
+
+<img width="578" height="600" alt="sprextga3" src="https://github.com/user-attachments/assets/c81272f6-3520-4187-ac80-b17eb5eda76d" />
+
 
 
 
