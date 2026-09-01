@@ -78,8 +78,9 @@ After unpacking it, the executable file becomes fully open to reverse engineerin
 **As a first step, I started by writing a small tool that opens the game's external data archive file "gamedata.g-d," and this is complete. 
 Now, unlike previous reverse engineering attempts, there's no need for a Java-based program. 
 Its using the MS-DOS command-line `doofext.exe`,** 
-all files in the "gamedata.g-d" archive can be easily **(1) unpacked** into the "\GD" folder, and then 
-**(2) reassembled(pack) to re-create** the "gamedata.g-d" file. **(Unpacker & Packer)**
+all files in the "gamedata.g-d" archive can be easily <br> 
+**(1) unpacked** into the "\GD" folder, and then <br>
+**(2) reassembled(pack) to re-create** the "gamedata.g-d" file. **(Unpacker & Packer)** <br>
 
 Doofext.exe (Doofus gamedata.g-d asset deployment subsystem) 
 
