@@ -37,8 +37,8 @@ X-FACTOR SiD DRAX (c64) = https://www.youtube.com/watch?v=inzU_KiYL7Q<br>
 The Alibi SiD LAXITY (c64) = https://www.youtube.com/watch?v=HnfuiYOF9jQ<br>
 <br>
 For some motivation, here's some musics: <br> 
-Bomfunk MCs - Freestyler (Dirty Version - Radio Edit) <br> 
-SG_Lewis_-_Warm__PointBreak_2015_Soundtrack <br> 
+- Bomfunk MCs - Freestyler (Dirty Version - Radio Edit) <br> 
+- SG_Lewis_-_Warm__PointBreak_2015_Soundtrack <br> 
 <br><br><br>
 _________________________________________________________________________________________________________________________________________________________________________________
 Ongoing projects >>> ■ Sprextga.exe ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe
