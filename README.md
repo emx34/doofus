@@ -46,7 +46,7 @@ ________________________________________________________________________________
 <br><br>
 ■ **Sprextga.exe --- Sprextga v1.0a First (alpha) test version**
 <br><br>
-***Doofus Sprite Extractor & TGA (Photoshop TARGA) * Sprite <---> TGA <---> Sprite converter***
+***Doofus Sprite Extractor & TGA (Photoshop TARGA) * Sprite <---> TGA <---> Sprite CONVERTER***
 <br> 
   This will make it possible to edit sprites (hero boy, dog, some other sprites..) with Photoshop and then write them back into the game. 
   <br><br>
