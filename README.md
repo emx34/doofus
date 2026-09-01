@@ -80,7 +80,7 @@ Now, unlike previous reverse engineering attempts, there's no need for a Java-ba
 Its using the MS-DOS command-line `doofext.exe`,** <br> 
 all files in the "gamedata.g-d" archive can be easily <br> 
 **(-x) unpacked** into the "\GD" folder, and then <br>
-**(-c) reassembled(pack) to re-create** the "gamedata.g-d" file. **(Unpacker & Packer)** <br>
+**(-c) reassembled(pack) to re-create** the "gamedata.g-d" file. **(Packer)** <br>
 
 Doofext.exe (Doofus gamedata.g-d asset deployment subsystem) 
 
