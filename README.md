@@ -79,8 +79,8 @@ After unpacking it, the executable file becomes fully open to reverse engineerin
 Now, unlike previous reverse engineering attempts, there's no need for a Java-based program. 
 Its using the MS-DOS command-line `doofext.exe`,** <br> 
 all files in the "gamedata.g-d" archive can be easily <br> 
-**(1) unpacked** into the "\GD" folder, and then <br>
-**(2) reassembled(pack) to re-create** the "gamedata.g-d" file. **(Unpacker & Packer)** <br>
+**(-x) unpacked** into the "\GD" folder, and then <br>
+**(-c) reassembled(pack) to re-create** the "gamedata.g-d" file. **(Unpacker & Packer)** <br>
 
 Doofext.exe (Doofus gamedata.g-d asset deployment subsystem) 
 
