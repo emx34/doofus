@@ -38,8 +38,7 @@ The Alibi SiD LAXITY (c64) = https://www.youtube.com/watch?v=HnfuiYOF9jQ<br>
 <br>
 For some motivation, here's some musics: <br> 
 - Bomfunk MCs - Freestyler (Dirty Version - Radio Edit) <br> 
-<br><br><br>
-
+<br>
 _________________________________________________________________________________________________________________________________________________________________________________
 Ongoing projects >>> ■ Sprextga.exe ■ Doofext.exe ■ TBSAplay.exe ■ GBview.exe ■ GB2tga.exe ■ 237unpak.exe
 <br> Writing six custom programs for Doofus was really tiring.. there might not be any updates or new features for a while, 
