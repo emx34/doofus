@@ -38,14 +38,6 @@ The Alibi SiD LAXITY (c64) = https://www.youtube.com/watch?v=HnfuiYOF9jQ<br>
 <br>
 For some motivation, here's some musics: <br> 
 - Bomfunk MCs - Freestyler (Dirty Version - Radio Edit) <br> 
-- SG_Lewis_-_Warm__PointBreak_2015_Soundtrack <br>
-- Kenny G - Havana
-- Aerosmith - I Dont Want To Miss A Thing
-- Bonjovi - Runaway
-- Haddaway - Breakaway
-- Enrique Iglesias - Bailamos
-- Kitaro - SilkRoad
-- The Time Machine 2002 Soundtrack by Klaus Badelt - I Dont Belong Here
 <br><br><br>
 
 _________________________________________________________________________________________________________________________________________________________________________________
