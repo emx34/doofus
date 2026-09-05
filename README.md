@@ -48,11 +48,12 @@ Ongoing projects >>> ■ Sprextga.exe ■ Doofext.exe ■ TBSAplay.exe ■ GBvie
 <br> I need to rest.
 _________________________________________________________________________________________________________________________________________________________________________________
 <br><br>
-■ **Sprextga.exe --- Sprextga v1.0a First (alpha) test version**
+■ **Sprextga.exe --- Sprextga v1.0b First (alpha) test version**
 <br><br>
 ***Doofus Sprite Extractor & TGA (Photoshop TARGA) * Sprite <---> TGA <---> Sprite CONVERTER***
 <br> 
   This will make it possible to edit sprites (hero boy, dog, some other sprites..) with Photoshop and then write them back into the game. 
+  v1.0b: PKLite UNpacking process animation added
   <br><br>
   █ The game's original executable file is compressed using PKLite, and this format is supported. 
  <br> ***(automatic PKLite unpacker feature)***
