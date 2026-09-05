@@ -53,7 +53,7 @@ ________________________________________________________________________________
 ***Doofus Sprite Extractor & TGA (Photoshop TARGA) * Sprite <---> TGA <---> Sprite CONVERTER***
 <br> 
   This will make it possible to edit sprites (hero boy, dog, some other sprites..) with Photoshop and then write them back into the game. <br>
-  v1.0b: PKLite UNpacking process animation added
+  v1.0b: PKLite UNpacking process indicator-animation added
   <br><br>
   █ The game's original executable file is compressed using PKLite, and this format is supported. 
  <br> ***(automatic PKLite unpacker feature)***
