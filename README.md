@@ -70,7 +70,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-# **(1) - DOOFUS gamedata.g-d External Archive File Extractor --- Doofext3.exe v2.0** 
+# **(1) - DOOFUS gamedata.g-d External Archive File Extractor** <br> **--- Doofext3.exe v2.0** 
 
 ■  **Doofext.exe** (%100 Full working version)
 
@@ -150,7 +150,7 @@ tbsaplay.exe 0055_59e.tbs
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-# **(3) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER ---** <br> **GBview.exe 1.5k UPDATED** 
+# **(3) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER** <br> --- **GBview.exe 1.5k UPDATED** 
 
 <img width="1503" height="466" alt="images" src="https://github.com/user-attachments/assets/b10ee8cd-fde6-443c-a110-b0d639713cf3" />
 
