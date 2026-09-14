@@ -104,7 +104,7 @@ ________________________________________________________________________________
 
 
 
-**(2)** - **STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4**
+# **(2)** - **STANDALONE ADLIB MUSIC PLAYER "The Bone Shaker Architect" Engine --- TBSAplay.exe v0.4**
 
 **■ This player is the original Adlib-Player engine within the Doofus game. After much effort, it was extracted from the game and made to run standalone in the MS-DOS command line.**
 
