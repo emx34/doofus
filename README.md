@@ -48,7 +48,7 @@ Ongoing projects >>> ■ Sprextga.exe ■ Doofext.exe ■ TBSAplay.exe ■ GBvie
 <br> I need to rest.
 _________________________________________________________________________________________________________________________________________________________________________________
 <br><br>
-#■ **Sprextga.exe --- Sprextga v1.0b First (alpha) test version**
+# ■ **Sprextga.exe --- Sprextga v1.0b First (alpha) test version**
 <br><br>
 ***Doofus Sprite Extractor & TGA (Photoshop TARGA) * Sprite <---> TGA <---> Sprite CONVERTER***
 <br> 
