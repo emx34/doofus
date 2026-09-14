@@ -258,7 +258,7 @@ Result = Game files compressed with 237UNPAK.exe are decompressed/unpacked by do
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-■ **DOOFUS GAME ~ ANTI-PIRACY PROTECTION SCREEN :** 
+# ■ **DOOFUS GAME ~ ANTI-PIRACY PROTECTION SCREEN :** 
 
 <img width="673" height="696" alt="Protection" src="https://github.com/user-attachments/assets/8d6d5f0c-fbf4-4177-8372-e0570c4a7e51" />
 
