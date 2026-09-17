@@ -277,5 +277,5 @@ ___ The source codes for the projects is currently **PRIVATE**
 
 ___ The entire project is my own; working alone, I've only been able to progress this far so far.
 
-___ █  ***ISTANBUL / Türkiye (2026)*** 
+___ █ # ***ISTANBUL / Türkiye (2026)*** 
 <br>
