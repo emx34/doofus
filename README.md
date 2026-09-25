@@ -271,12 +271,12 @@ I'm N0T giving details to <ins>lamers</ins> about Cr4ck!ng.. **Professionals don
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-___ The projects are not finished and it seems like it will take a long time
+___ The projects are not finished and it seems like it will take a long time <br>
 
-___ The source codes for the projects is currently **PRIVATE**
-___ CONTACT: https://www.vogons.org/viewforum.php?f=7 * (DOS Games/Apps): em34
+___ The source codes for the projects is currently **PRIVATE** <br>
+___ CONTACT: https://www.vogons.org/viewforum.php?f=7 * (DOS Games/Apps): em34 <br>
 
-___ The entire project is my own; working alone, I've only been able to progress this far so far.
+___ The entire project is my own; working alone, I've only been able to progress this far so far. <br>
 
 # ___ █ ***ISTANBUL / Türkiye (2026)*** 
 <br>
