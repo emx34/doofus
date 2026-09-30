@@ -60,8 +60,8 @@ ________________________________________________________________________________
  <br> The original exe file, compressed with pkLite, is included in the sprextga.zip package.
  <br><br>
   ♦♦♦ ***SPECIAL Thanks to BUDU/Murat for their significant support to the sprextga program !***
- 
-<img width="1310" height="612" alt="sprextga4" src="https://github.com/user-attachments/assets/93a0ee88-30da-4bc0-b99d-f05836ed00d6" />
+  
+<img width="1310" height="612" alt="sprextga4" src="https://github.com/user-attachments/assets/f025d184-b7d5-46be-9f76-3bf77088fdde" />
 
 <br><br>
 
