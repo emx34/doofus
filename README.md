@@ -17,6 +17,7 @@ and seriously focusing on this..
 <br>
 <br>
 **EMX (eMX!)** 
+<img width="550" height="48" alt="EMX" src="https://github.com/user-attachments/assets/9fcdf6ae-944f-44dd-bbb2-a6edc3f96c3b" />
 
 <br> <br>
 
