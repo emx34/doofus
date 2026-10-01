@@ -16,7 +16,7 @@ The next step will be the in-game graphics and sprites, but that's a really tiri
 and seriously focusing on this..
 <br>
 <br>
-**EMX (eMX!)** .. I put a tremendous amount of effort into Reverse-Engineering this game. <br>
+**EMX (eMX!)** .. ***I put a tremendous amount of effort into Reverse-Engineering this game.*** <br>
 <img width="550" height="48" alt="EMX" src="https://github.com/user-attachments/assets/9fcdf6ae-944f-44dd-bbb2-a6edc3f96c3b" />
 <br>
 <br>
