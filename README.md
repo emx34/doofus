@@ -19,6 +19,8 @@ and seriously focusing on this..
 **EMX (eMX!)** <br>
 <img width="550" height="48" alt="EMX" src="https://github.com/user-attachments/assets/9fcdf6ae-944f-44dd-bbb2-a6edc3f96c3b" />
 <br>
+<br>
+
 ____ █  **GREETINGS to friends and people I knew in the past __________________________________________________________** 
 <br>
 <br>
