@@ -62,7 +62,7 @@ ________________________________________________________________________________
  <br><br>
   ♦♦♦ ***SPECIAL Thanks to BUDU/Murat for their significant support to the sprextga program !***
   
-<img width="1310" height="612" alt="sprextga4" src="https://github.com/user-attachments/assets/f025d184-b7d5-46be-9f76-3bf77088fdde" />
+<img width="1310" height="802" alt="sprextga4a" src="https://github.com/user-attachments/assets/c5326c45-d493-4a78-9774-8e1f25287266" />
 
 <br><br>
 
