@@ -264,7 +264,7 @@ ________________________________________________________________________________
 <img width="673" height="696" alt="Protection" src="https://github.com/user-attachments/assets/8d6d5f0c-fbf4-4177-8372-e0570c4a7e51" />
 
 
-**<ins>Memory addresses have been erased (!)</ins>**
+**<ins>Memory addresses erased (!)</ins>**
 
 I'm N0T giving details to <ins>lamers</ins> about Cr4ck!ng.. **Professionals dont need such an explanation anyway ;-)**
 
