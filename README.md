@@ -189,7 +189,6 @@ It's possible to view the game's graphics(some of *.dat files) using this tool a
 gbview.exe 0005_3f2.dat
 
 
-<img width="709" height="374" alt="image" src="https://github.com/user-attachments/assets/742463b1-f75a-46d1-946d-6ebc685263fb" />
 
 
 
