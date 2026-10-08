@@ -159,15 +159,15 @@ ________________________________________________________________________________
 
 0004_3f2.dat = Company Logo image (Prestige Softwareentwicklung GmbH logo)
 
-0005_3f2.dat = Game Logo image (logo + dog head) DUAL-image / SourceCode updated 1.5k
+0005_3f2.dat = Game Logo image (logo + dog head) DUAL-image / SourceCode updated - 1.5k
 
 0006_3f2.dat = Doofus boy dog monkey elephant image
 
 0008_3f2.dat = HighScore image
 
-0009_3f2.dat = CREDITS - Programmers names - blue background
+0009_3f2.dat = CREDITS - Programmers names - blue background - 1.5L
 
-0011_3f2.dat = OPTIONS - Main menu - blue background
+0011_3f2.dat = OPTIONS - Main menu - blue background - 1.5L
 
 0015_43e.dat = Bonus screen
 
