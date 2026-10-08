@@ -150,11 +150,9 @@ tbsaplay.exe 0055_59e.tbs
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
-# **(3) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER** <br> --- **GBview.exe 1.5k UPDATED** 
+# **(3) - DOOFUS GB-IMAGE-FILES(*_3f2.DAT) VIEWER** <br> --- **GBview.exe 1.5L UPDATED** 
 
-<img width="1503" height="466" alt="images" src="https://github.com/user-attachments/assets/b10ee8cd-fde6-443c-a110-b0d639713cf3" />
-
-
+<img width="1502" height="664" alt="images" src="https://github.com/user-attachments/assets/e6b68200-b01d-45d4-9da7-173542d8734a" />
 
 
 ■  **GBview.exe** (%100 Full working version)
@@ -166,6 +164,10 @@ ________________________________________________________________________________
 0006_3f2.dat = Doofus boy dog monkey elephant image
 
 0008_3f2.dat = HighScore image
+
+0009_3f2.dat = CREDITS - Programmers names - blue background
+
+0011_3f2.dat = OPTIONS - Main menu - blue background
 
 0015_43e.dat = Bonus screen
 
