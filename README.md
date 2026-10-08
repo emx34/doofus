@@ -184,7 +184,7 @@ Doing what has never been done before, a small step but a giant leap onto the mo
 a GBView.exe, Image-Viewer that can display *.dat image files containing "GB headers". 
 It's possible to view the game's graphics(some of *.dat files) using this tool after extracting them from the gamedata.g-d archive file. 
 
-~ usage syntax options:
+~ usage:
 
 gbview.exe 0005_3f2.dat
 
