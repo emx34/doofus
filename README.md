@@ -109,6 +109,8 @@ ________________________________________________________________________________
 **■ This player is the original Adlib-Player engine within the Doofus game. After much effort, it was extracted from the game and made to run standalone in the MS-DOS command line.**
 
 <img width="899" height="548" alt="adlib" src="https://github.com/user-attachments/assets/83161383-c465-45cc-b2d3-a08a6a1b4afe" />
+__________________________________________________________________________________
+<img width="801" height="512" alt="Doofus_Screen_3" src="https://github.com/user-attachments/assets/0ab8fd97-bfe0-4485-9273-70fd715cc477" />
 
 
 
