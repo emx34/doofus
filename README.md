@@ -114,6 +114,8 @@ ________________________________________________________________________________
 <br>
 <br>
 <img width="801" height="558" alt="Doofus_Screen_3" src="https://github.com/user-attachments/assets/25fe3a8f-10ec-4ba7-8bce-5eabed44b245" />
+
+***LINK = https://github.com/emx34/emxhsctracker***
 <br>
 <br>
 " Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) **ALL soundtrack files included** :-)
