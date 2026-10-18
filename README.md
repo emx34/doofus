@@ -110,7 +110,8 @@ ________________________________________________________________________________
 
 <img width="899" height="548" alt="adlib" src="https://github.com/user-attachments/assets/83161383-c465-45cc-b2d3-a08a6a1b4afe" />
 __________________________________________________________________________________
-<img width="801" height="512" alt="Doofus_Screen_3" src="https://github.com/user-attachments/assets/0ab8fd97-bfe0-4485-9273-70fd715cc477" />
+<img width="801" height="558" alt="Doofus_Screen_3" src="https://github.com/user-attachments/assets/25fe3a8f-10ec-4ba7-8bce-5eabed44b245" />
+
 
 
 
