@@ -110,12 +110,10 @@ ________________________________________________________________________________
 
 <img width="899" height="548" alt="adlib" src="https://github.com/user-attachments/assets/83161383-c465-45cc-b2d3-a08a6a1b4afe" />
 __________________________________________________________________________________
+<br>
 <img width="801" height="558" alt="Doofus_Screen_3" src="https://github.com/user-attachments/assets/25fe3a8f-10ec-4ba7-8bce-5eabed44b245" />
-
-
-
-
-
+<br>
+<br>
 " Believe the unbelievable " The game Doofus uses Adlib music files in tbs format (*.tbs files) **ALL soundtrack files included** :-)
 **Player will be available as a standalone for the first time** :-) **<ins>The 0riginal Adlib-Player Engine</ins>** in the Doofus game operates as a complex mechanism(TSR). 
 Extracting this player from within the game and making it work independently was a really laborious and tiring task.
