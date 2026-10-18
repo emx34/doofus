@@ -113,7 +113,8 @@ ________________________________________________________________________________
 __________________________________________________________________________________
 <br>
 <br>
-<img width="801" height="558" alt="Doofus_Screen_3" src="https://github.com/user-attachments/assets/25fe3a8f-10ec-4ba7-8bce-5eabed44b245" />
+<img width="801" height="558" alt="Doofus_Screen_4" src="https://github.com/user-attachments/assets/510f33e7-e5fa-4f74-bd8e-773daf301fe6" />
+
 
 ***LINK = https://github.com/emx34/emxhsctracker***
 <br>
