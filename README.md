@@ -1,6 +1,6 @@
-# ■ ***Believe the unbelievable! SHOCK NEWS: DOOFUS for WINDOWS .. on the way :-)***
-# ■ ***Believe the unbelievable! SHOCK NEWS: DOOFUS for WINDOWS .. on the way :-)***
-# ■ ***Believe the unbelievable! SHOCK NEWS: DOOFUS for WINDOWS .. on the way :-)***
+# ■ ***Believe the unbelievable! SHOCKING NEWS: DOOFUS for WINDOWS is on its way :-) Not an emulation, but a native Windows EXE version!***
+# ■ ***Believe the unbelievable! SHOCKING NEWS: DOOFUS for WINDOWS is on its way :-) Not an emulation, but a native Windows EXE version!***
+# ■ ***Believe the unbelievable! SHOCKING NEWS: DOOFUS for WINDOWS is on its way :-) Not an emulation, but a native Windows EXE version!***
 
 <img width="1439" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/479117f4-d865-4251-9d8c-3e41f8b4e870" />
 
