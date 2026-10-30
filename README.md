@@ -2,6 +2,7 @@
 
 https://github.com/user-attachments/assets/b30b5af0-fa90-416d-86c5-45e9e25d620e
 
+<img width="640" height="486" alt="shop_mouse" src="https://github.com/user-attachments/assets/fc721711-d64a-4488-8e28-45a1a190d16b" />
 
 <img width="1368" height="1034" alt="Doofus" src="https://github.com/user-attachments/assets/ba539aad-fc78-4c9d-8d19-e2f44976a975" />
 
