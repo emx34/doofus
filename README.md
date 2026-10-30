@@ -1,4 +1,4 @@
-# ■ ***A signature has been added inside the game: "Native Windows EXE"***
+# ***A signature has been added to the Game:"Native Windows EXE"***
 
 https://github.com/user-attachments/assets/b30b5af0-fa90-416d-86c5-45e9e25d620e
 
