@@ -2,6 +2,8 @@
 
 https://github.com/user-attachments/assets/4c607719-d7d4-4ed1-99fb-004e6764e6c8
 
+<img width="1368" height="1034" alt="Doofus" src="https://github.com/user-attachments/assets/ba539aad-fc78-4c9d-8d19-e2f44976a975" />
+
 # ■ ***Believe the unbelievable! DOOFUS for WINDOWS is on its way! :-) It’s not an emulation—it’s a native Windows EXE version. A tremendous amount of effort has gone into this project; the underlying infrastructure was built using the tools you see below, and the result is absolutely fantastic! but NOT READY YET ! ***
 
 <img width="1439" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/479117f4-d865-4251-9d8c-3e41f8b4e870" />
