@@ -1,4 +1,4 @@
-# ***A signature has been added to the Game (WINDOWS-PORT): "Doofus Native EXE"***
+# ***A signature has been added to the Game (WINDOWS-PORT-EXE) : "Doofus Native EXE"***
 
 https://github.com/user-attachments/assets/b30b5af0-fa90-416d-86c5-45e9e25d620e
 
