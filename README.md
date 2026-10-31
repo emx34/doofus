@@ -4,7 +4,8 @@ https://github.com/user-attachments/assets/b30b5af0-fa90-416d-86c5-45e9e25d620e
 
 <img width="640" height="486" alt="shop_mouse" src="https://github.com/user-attachments/assets/fc721711-d64a-4488-8e28-45a1a190d16b" />
 
-<img width="1982" height="1042" alt="Doofus3" src="https://github.com/user-attachments/assets/713e6497-e708-455b-8212-f3810c716c29" />
+<img width="1982" height="1042" alt="Doofus3" src="https://github.com/user-attachments/assets/0d1d64d6-6bf7-4c9a-88b4-667f1a0155ba" />
+
 
 # ■ ***Believe the unbelievable! DOOFUS for WINDOWS is on its way! :-) It’s not an emulation—it’s a native Windows EXE version. A tremendous amount of effort has gone into this project; the underlying infrastructure was built using the tools you see below, and the result is absolutely fantastic! but NOT READY YET ! ***
 
