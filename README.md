@@ -5,6 +5,7 @@ https://github.com/user-attachments/assets/b30b5af0-fa90-416d-86c5-45e9e25d620e
 <img width="1982" height="1042" alt="Doofus4" src="https://github.com/user-attachments/assets/5516d8f5-5721-4fc5-94e6-a64e781ac2db" />
 
 # ■ ***Believe the unbelievable! DOOFUS for WINDOWS is on its way! :-) It’s not an emulation—it’s a native Windows EXE version. A tremendous amount of effort has gone into this project; the underlying infrastructure was built using the tools you see below, and the result is absolutely fantastic! but NOT READY YET ! ***
+***■ Roadmap: Once the DOOFUS Windows project is properly completed and finished, I will work on compiling it into ANDROID-ARM code, so that DOOFUS Remastered will run on Android phones.***
 
 <img width="1439" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/479117f4-d865-4251-9d8c-3e41f8b4e870" />
 
