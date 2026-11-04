@@ -1,4 +1,6 @@
 
+<img width="1674" height="823" alt="doofus deepdive" src="https://github.com/user-attachments/assets/0bcbcfa5-0ba0-4f1b-aed9-2ca5fe898752" />
+
 https://github.com/user-attachments/assets/bc16eb4f-151d-423d-9e51-94a4056fdd22
 
 # ***A signature has been added to the Game (WINDOWS-PORT-EXE) : "Doofus Native EXE"***
