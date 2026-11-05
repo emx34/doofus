@@ -1,5 +1,4 @@
-
-<img width="1674" height="823" alt="doofus deepdive" src="https://github.com/user-attachments/assets/0bcbcfa5-0ba0-4f1b-aed9-2ca5fe898752" />
+<img width="1920" height="1039" alt="doofus deepdive2" src="https://github.com/user-attachments/assets/24bc2fab-0239-4749-940a-05523c9b59cb" />
 
 https://github.com/user-attachments/assets/bc16eb4f-151d-423d-9e51-94a4056fdd22
 
