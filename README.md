@@ -1,6 +1,5 @@
 # ***■ Doofus for WINDOWS: 1-level DEMO version is now ready for download: Doofus_DEMO.7z***
-# ***■ DOWNLOAD-LINKS: https://www.mirrored.to/files/CBA48C63/Doofus_DEMO.7z_links
- ***
+# ***■ DOWNLOAD-LINKS: https://www.mirrored.to/files/CBA48C63/Doofus_DEMO.7z_links***
 ![Uploading DOOFUSHD.png…]()
 
 <img width="1920" height="1039" alt="doofus deepdive2" src="https://github.com/user-attachments/assets/24bc2fab-0239-4749-940a-05523c9b59cb" />
