@@ -1,4 +1,6 @@
-# ***Doofus for WINDOWS: 1-level demo version is now ready for download: Doofus_DEMO.7z***
+# ***■ Doofus for WINDOWS: 1-level demo version is now ready for download: Doofus_DEMO.7z***
+<img width="1011" height="757" alt="DOOFUSHD" src="https://github.com/user-attachments/assets/369ea559-f9c5-431a-b116-5d0bad84aae5" />
+
 
 <img width="1920" height="1039" alt="doofus deepdive2" src="https://github.com/user-attachments/assets/24bc2fab-0239-4749-940a-05523c9b59cb" />
 
