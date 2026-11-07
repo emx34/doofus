@@ -1,5 +1,5 @@
 # ***■ Doofus for WINDOWS: 1-level DEMO version is now ready for download: Doofus_DEMO.7z***
-# ***■ >>> DOWNLOAD-LINKS: https://www.mirrored.to/files/CBA48C63/Doofus_DEMO.7z_links
+# ***■ DOWNLOAD-LINKS: https://www.mirrored.to/files/CBA48C63/Doofus_DEMO.7z_links
  ***
 ![Uploading DOOFUSHD.png…]()
 
