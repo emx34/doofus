@@ -1,6 +1,6 @@
 # ***■ https://doofusforwindows.itch.io/doofus***
 # ***■ Doofus for WINDOWS 1-level DEMO (Alpha-Test version) is now ready for download: Doofus_DEMO.7z***
-# ***■ DOWNLOAD-LINKS: https://www.mirrored.to/files/827A4A2C/Doofus_for_Windows.rar_links***
+# ** ■ DOWNLOAD-LINKS: https://www.mirrored.to/files/827A4A2C/Doofus_for_Windows.rar_links***
 ***Download mirrors: DailyUploads ■ MegaupNet ■ TurboBit ■ UploadEe ■ Buzzheavier ■ GoFileIo ■ VikingFile ■ OneFichier ■ FileDitch***
 <img width="1011" height="757" alt="DOOFUSHD" src="https://github.com/user-attachments/assets/d63e508e-e02e-4cb8-8862-6c815cda5609" />
 
