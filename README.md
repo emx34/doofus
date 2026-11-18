@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/b30b5af0-fa90-416d-86c5-45e9e25d620e
 
 <img width="1439" height="1344" alt="doofus4" src="https://github.com/user-attachments/assets/479117f4-d865-4251-9d8c-3e41f8b4e870" />
 
- ■ **DOOFUS --- MSDOS Platform Game - Reverse Engineering Project (Borland C++ & x86 Assembler)**
+ ■ **DOOFUS --- MSDOS Platform Game - Reverse Engineering Project (VisualStudio2022/BorlandC++/x86Assembler)**
 <br><br>
 Doofus is a high-quality platform game with stunning graphics & beautiful musics .. a masterpiece made for MS-DOS.<br>
 Doofus uses **Adlib music files in TBS format, all the game musics/soundtrack is included in the tbsaplay.zip package**
