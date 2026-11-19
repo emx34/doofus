@@ -10,7 +10,7 @@
 
 https://github.com/user-attachments/assets/bc16eb4f-151d-423d-9e51-94a4056fdd22
 
-# ***A signature has been added to the Game (WINDOWS-PORT-EXE) : "Doofus Native EXE"***
+# ***A signature has been added to the Game (native PC port for Windows) : "Doofus Native EXE"***
 https://github.com/user-attachments/assets/b30b5af0-fa90-416d-86c5-45e9e25d620e
 
 <img width="1982" height="978" alt="2db" src="https://github.com/user-attachments/assets/541b03ef-08b8-40d8-9b66-16e0cf1b5976" />
