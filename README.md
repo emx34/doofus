@@ -1,4 +1,4 @@
-# ***█ Code development and bugfixes continue.. a lot of updates & a lot of bugfixes need to be done, there is a lot of work.. latest update: Smart FX-Sound code***
+# ***█ Code development and bugfixes continue.. a lot of updates & a lot of bugfixes need to be done, there is a lot of work.. latest update: Smart Sound-FX code***
 # ***■ https://doofusforwindows.itch.io/doofus***
 # ***■ Doofus for WINDOWS 1-level DEMO (Alpha-Test version) is now ready for download: Doofus_DEMO.7z***
 # **■ DOWNLOAD-LINKS: https://www.mirrored.to/files/827A4A2C/Doofus_for_Windows.rar_links**
